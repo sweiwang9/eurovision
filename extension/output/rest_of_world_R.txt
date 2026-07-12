@@ -1,0 +1,13 @@
+== REST-OF-WORLD (XX) benchmark, 2023-2026 public vote ==
+
+1) XX rewards quality:  pub = 0.52 + 1.02*quality   R2=0.51  (n=56)
+   national comparison:  slope 0.92, R2 0.41
+
+2) Extra points to friend-bloc receivers (bias ~ recv_bloc):
+     XX       : -0.159 (1.278)
+     national : 0.079 (0.212)
+
+3) National diaspora bias (bias ~ diaspora, national voters): 0.788*** (0.067)
+   XX has no diaspora ties -> diaspora=0 by construction.
+
+Mean bias: XX = +0.58 (sd 2.72)   national = +0.57 (sd 2.96)
