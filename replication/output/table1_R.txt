@@ -1,0 +1,28 @@
+Table 1 (R). Top 10 most bias dyads pre and post televoting.
+
+=== 1975-1997 ===
+Rank Voter                 Receiver                Bias    N
+1    Cyprus                Greece                   8.7   13
+2    Greece                Cyprus                   7.1   13
+3    Turkey                Bosnia & Herzegovina     6.7    4
+4    Croatia               Malta                    5.6    5
+5    Malta                 Croatia                  5.2    5
+6    Portugal              Italy                    4.8   17
+7    Malta                 Luxembourg               4.7    4
+8    Estonia               France                   4.6    3
+9    Malta                 Turkey                   4.5    7
+10   United Kingdom        Estonia                  4.3    3
+
+=== 1998-2012 ===
+Rank Voter                 Receiver                Bias    N
+1    Greece                Cyprus                  10.2    7
+2    Romania               Moldova                  9.7    7
+3    Macedonia             Albania                  9.5    3
+4    Cyprus                Greece                   8.8    7
+5    Moldova               Romania                  8.5    7
+6    Azerbaijan            Turkey                   8.4    4
+7    Turkey                Azerbaijan               8.4    4
+8    France                Portugal                 8.3    7
+9    Serbia                Bosnia & Herzegovina     8.2    5
+10   Bosnia & Herzegovina  Serbia                   8.1    5
+

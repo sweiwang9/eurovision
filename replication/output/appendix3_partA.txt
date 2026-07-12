@@ -1,0 +1,31 @@
+Appendix 3 (Part A). Test of within-group bias (beta = mean bias).
+
+
+=== 1975-1997 ===
+Group       Beta   p-value      N   members
+G1          4.66     0.013      8   Bosnia & Herzegovina, Turkey
+G10         1.78     0.002     54   Italy, Spain, Monaco
+G2          1.17     0.000    318   Sweden, Denmark, Norway, Iceland, Finland
+G3          5.36     0.131      4   Russia, Slovenia
+G4          0.41     0.015    402   United Kingdom, Ireland, Luxembourg, Belgium, Switzerland
+G5          1.67     0.063     24   Israel, Yugoslavia
+G6          2.07     0.008     16   Estonia, Poland, Hungary
+G7          7.89     0.000     26   Cyprus, Greece
+G8          0.14     0.505    240   Germany, France, Netherlands, Austria
+G9          1.20     0.093     36   Croatia, Malta, Portugal
+
+=== 1998-2012 ===
+Group       Beta   p-value      N   members
+G1          9.45     0.000     15   Romania, Moldova
+G10         3.87     0.000    194   Sweden, Denmark, Iceland, Norway, Finland
+G11         3.22     0.000     72   United Kingdom, Ireland, Malta
+G12         5.32     0.000     11   Netherlands, Belgium
+G13         0.98     0.516      6   Poland, Hungary
+G2          9.49     0.000     19   Greece, Cyprus
+G3          8.22     0.000      9   Turkey, Azerbaijan
+G4          3.87     0.000    162   Ukraine, Georgia, Russia, Belarus, Armenia, Israel
+G5          7.23     0.030      3   Italy, Albania
+G6          5.96     0.000    150   Serbia, Serbia & Montenegro, Slovenia, Croatia, Bosnia & Herzegovina, Macedonia
+G7          3.25     0.000     70   Spain, Portugal, France
+G8          2.69     0.000     41   Germany, Switzerland, Austria
+G9          4.44     0.000     42   Latvia, Lithuania, Estonia

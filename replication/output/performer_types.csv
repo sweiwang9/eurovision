@@ -1,0 +1,1187 @@
+year,country_id,performer,perf_type,duet,group,female,source
+1975,be,Ann Christy,solo_female,0,0,1,wikidata_exact
+1975,ch,Simone Drexel,solo_female,0,0,1,wikidata_exact
+1975,de,Joy Fleming,solo_female,0,0,1,wikidata_exact
+1975,es,Sergio & Estíbaliz,duet,1,0,0,wikidata_fuzzy
+1975,fi,Pihasoittajat,group,0,1,0,wikidata_exact
+1975,fr,Nicole Rieu,solo_female,0,0,1,wikidata_exact
+1975,gb,The Shadows,group,0,1,0,wikidata_exact
+1975,ie,The Swarbriggs,duet,1,0,0,wikidata_exact
+1975,il,Shlomo Artzi,solo_male,0,0,0,wikidata_exact
+1975,it,Wess & Dori Ghezzi,duet,1,0,0,wikidata_exact
+1975,lu,Géraldine,solo_female,0,0,1,wikidata_exact
+1975,mc,Sophie,solo_ungendered,0,0,0,wikidata_exact
+1975,mt,Renato,solo_male,0,0,0,wikidata_exact
+1975,nl,Teach-In,group,0,1,0,wikidata_exact
+1975,no,Ellen Nikolaysen,solo_female,0,0,1,wikidata_exact
+1975,pt,Duarte Mendes,solo_male,0,0,0,wikidata_exact
+1975,se,Lars Berghagen and the Dolls,duet,1,0,0,name_heuristic
+1975,tr,Semiha Yanki,solo_female,0,0,1,wikidata_exact
+1975,yu,Pepel In Kri,group,0,1,0,wikidata_fuzzy
+1976,at,Waterloo and Robinson,duet,1,0,0,name_heuristic
+1976,be,Pierre Rapsat,solo_male,0,0,0,wikidata_exact
+1976,ch,"Peter, Sue and Marc",group,0,1,0,wikidata_exact
+1976,de,Les Humphries Singers,group,0,1,0,wikidata_exact
+1976,es,Braulio,solo_male,0,0,0,wikidata_exact
+1976,fi,Fredi and The Friends,duet,1,0,0,name_heuristic
+1976,fr,Catherine Ferry,solo_female,0,0,1,wikidata_exact
+1976,gb,Brotherhood of Man,group,0,1,0,wikidata_exact
+1976,gr,Mariza Koch,solo_female,0,0,1,wikidata_exact
+1976,ie,Red Hurley,solo_male,0,0,0,wikidata_exact
+1976,il,"Chocolate, Menta, Mastik",group,0,1,0,wikidata_fuzzy
+1976,it,Romina and Al Bano,duet,1,0,0,name_heuristic
+1976,lu,Jürgen Marcus,solo_male,0,0,0,wikidata_exact
+1976,mc,Mary Christy,solo_female,0,0,1,wikidata_exact
+1976,nl,Sandra Reemer,solo_female,0,0,1,wikidata_exact
+1976,no,Anne-Karine Ström,solo_female,0,0,1,wikidata_fuzzy
+1976,pt,Carlos do Carmo,solo_male,0,0,0,wikidata_exact
+1976,yu,Ambasadori,group,0,1,0,wikidata_exact
+1977,at,Schmetterlinge,group,0,1,0,wikidata_exact
+1977,be,Dream Express,group,0,1,0,wikidata_exact
+1977,ch,Pepe Lienhard Band,solo_male,0,0,0,wikidata_fuzzy
+1977,de,Silver Convention,group,0,1,0,wikidata_exact
+1977,es,Micky,solo_male,0,0,0,wikidata_exact
+1977,fi,Monica Aspelund,solo_female,0,0,1,wikidata_exact
+1977,fr,Marie Myriam,solo_female,0,0,1,wikidata_exact
+1977,gb,Lynsey de Paul and Mike Moran,duet,1,0,0,name_heuristic
+1977,gr,"Pascalis, Marianna, Robert and Bessy",duet,1,0,0,name_heuristic
+1977,ie,The Swarbriggs Plus Two,duet,1,0,0,wikidata_exact
+1977,il,Ilanit,solo_female,0,0,1,wikidata_exact
+1977,it,Mia Martini,solo_female,0,0,1,wikidata_exact
+1977,lu,Anne Marie B.,solo_female,0,0,1,wikidata_fuzzy
+1977,mc,Michèle Torr,solo_female,0,0,1,wikidata_exact
+1977,nl,Heddy Lester,solo_female,0,0,1,wikidata_exact
+1977,no,Anita Skorgan,solo_female,0,0,1,wikidata_exact
+1977,pt,Os Amigos,group,0,1,0,wikidata_exact
+1977,se,Forbes,group,0,1,0,wikidata_exact
+1978,at,Springtime,group,0,1,0,wikidata_exact
+1978,be,Jean Vallée,solo_male,0,0,0,wikidata_exact
+1978,ch,Carole Vinci,solo_female,0,0,1,wikidata_exact
+1978,de,Ireen Sheer,solo_female,0,0,1,wikidata_exact
+1978,dk,Mabel,solo_female,0,0,1,wikidata_exact
+1978,es,José Vélez,solo_male,0,0,0,wikidata_exact
+1978,fi,Seija Simola,solo_female,0,0,1,wikidata_exact
+1978,fr,Joël Prévost,solo_male,0,0,0,wikidata_exact
+1978,gb,Co-Co,group,0,1,0,wikidata_exact
+1978,gr,Tania Tsanaklidou,solo_female,0,0,1,wikidata_exact
+1978,ie,Colm T. Wilkinson,solo_ungendered,0,0,0,unresolved
+1978,il,Izhar Cohen and the Alphabeta,duet,1,0,0,name_heuristic
+1978,it,Ricchi e Poveri,group,0,1,0,wikidata_exact
+1978,lu,Baccara,duet,1,0,0,wikidata_exact
+1978,mc,Caline and Olivier Toussaint,duet,1,0,0,name_heuristic
+1978,nl,Harmony,group,0,1,0,wikidata_exact
+1978,no,Jahn Teigen,solo_male,0,0,0,wikidata_exact
+1978,pt,Gemini,group,0,1,0,wikidata_exact
+1978,se,Björn Skifs,solo_male,0,0,0,wikidata_exact
+1978,tr,Nazar,group,0,1,0,wikidata_exact
+1979,at,Christina Simon,solo_female,0,0,1,wikidata_exact
+1979,be,Micha Marah,solo_female,0,0,1,wikidata_exact
+1979,ch,"Peter, Sue and Marc and Pfuri, Gorps and Kniri",duet,1,0,0,name_heuristic
+1979,de,Dschinghis Khan,group,0,1,0,wikidata_exact
+1979,dk,Tommy Seebach,solo_male,0,0,0,wikidata_exact
+1979,es,Betty Missiego,solo_female,0,0,1,wikidata_exact
+1979,fi,Katri-Helena,solo_female,0,0,1,wikidata_fuzzy
+1979,fr,Anne-Marie David,solo_female,0,0,1,wikidata_exact
+1979,gb,Black Lace,group,0,1,0,wikidata_exact
+1979,gr,Elpida,solo_female,0,0,1,wikidata_exact
+1979,ie,Cathal Dunne,solo_male,0,0,0,wikidata_exact
+1979,il,Milk and Honey,group,0,1,0,wikidata_exact
+1979,it,Matia Bazar,group,0,1,0,wikidata_exact
+1979,lu,Jeane Manson,solo_female,0,0,1,wikidata_exact
+1979,mc,Laurent Vaguener,solo_male,0,0,0,wikidata_fuzzy
+1979,nl,Xandra,solo_female,0,0,1,wikidata_exact
+1979,no,Anita Skorgan,solo_female,0,0,1,wikidata_exact
+1979,pt,Manuela Bravo,solo_female,0,0,1,wikidata_exact
+1979,se,Ted Gärdestad,solo_male,0,0,0,wikidata_exact
+1980,at,Blue Danube,group,0,1,0,wikidata_exact
+1980,be,Telex,group,0,1,0,wikidata_exact
+1980,ch,Paola,solo_female,0,0,1,wikidata_exact
+1980,de,Katja Ebstein,solo_female,0,0,1,wikidata_exact
+1980,dk,Bamses Venner,group,0,1,0,wikidata_exact
+1980,es,Trigo Limpio,group,0,1,0,wikidata_exact
+1980,fi,Vesa-Matti Loiri,solo_male,0,0,0,wikidata_exact
+1980,fr,Profil,group,0,1,0,wikidata_exact
+1980,gb,Prima Donna,group,0,1,0,wikidata_exact
+1980,gr,Anna Vissi and the Epikouri,duet,1,0,0,name_heuristic
+1980,ie,Johnny Logan,solo_male,0,0,0,wikidata_exact
+1980,it,Alan Sorrenti,solo_male,0,0,0,wikidata_exact
+1980,lu,Sophie and Magaly,duet,1,0,0,name_heuristic
+1980,ma,Samira Bensaïd,solo_female,0,0,1,wikidata_exact
+1980,nl,Maggie MacNeal,solo_female,0,0,1,wikidata_fuzzy
+1980,no,Sverre Kjellsberg & Mattis Hætta,duet,1,0,0,name_heuristic
+1980,pt,José Cid,solo_male,0,0,0,wikidata_exact
+1980,se,Tomas Ledin,solo_male,0,0,0,wikidata_exact
+1980,tr,Ajda Pekkan,solo_female,0,0,1,wikidata_exact
+1981,at,Marty Brem,solo_male,0,0,0,wikidata_exact
+1981,be,Emly Starr,solo_female,0,0,1,wikidata_exact
+1981,ch,"Peter, Sue and Marc",group,0,1,0,wikidata_exact
+1981,cy,Island,group,0,1,0,wikidata_exact
+1981,de,Lena Valaitis,solo_female,0,0,1,wikidata_exact
+1981,dk,Debbie Cameron and Tommy Seebach,duet,1,0,0,name_heuristic
+1981,es,Bacchelli,solo_male,0,0,0,wikidata_exact
+1981,fi,Riki Sorsa,solo_male,0,0,0,wikidata_exact
+1981,fr,Jean Gabilou,solo_male,0,0,0,wikidata_exact
+1981,gb,Bucks Fizz,group,0,1,0,wikidata_exact
+1981,gr,Yiannis Dimitras,solo_male,0,0,0,wikidata_exact
+1981,ie,Sheeba,solo_female,0,0,1,wikidata_exact
+1981,il,Habibi,group,0,1,0,wikidata_exact
+1981,lu,Jean-Claude Pascal,solo_male,0,0,0,wikidata_exact
+1981,nl,Linda Williams,solo_female,0,0,1,wikidata_exact
+1981,no,Finn Kalvik,solo_male,0,0,0,wikidata_exact
+1981,pt,Carlos Paião,solo_male,0,0,0,wikidata_exact
+1981,se,Björn Skifs,solo_male,0,0,0,wikidata_exact
+1981,tr,Modern Folk Trio and Aysegül,group,0,1,0,name_heuristic
+1981,yu,Seid-Memic Vajta,solo_male,0,0,0,wikidata_fuzzy
+1982,at,Mess,duet,1,0,0,wikidata_exact
+1982,be,Stella,solo_female,0,0,1,wikidata_exact
+1982,ch,Arlette Zola,solo_female,0,0,1,wikidata_exact
+1982,cy,Anna Vissi,solo_female,0,0,1,wikidata_exact
+1982,de,Nicole,solo_female,0,0,1,wikidata_exact
+1982,dk,Brixx,group,0,1,0,wikidata_exact
+1982,es,Lucía,solo_female,0,0,1,wikidata_exact
+1982,fi,Kojo,solo_male,0,0,0,wikidata_exact
+1982,gb,Bardo,duet,1,0,0,wikidata_exact
+1982,ie,The Duskeys,group,0,1,0,wikidata_exact
+1982,il,Avi Toledano,solo_male,0,0,0,wikidata_exact
+1982,lu,Svetlana,solo_female,0,0,1,wikidata_exact
+1982,nl,Bill van Dijk,solo_male,0,0,0,wikidata_exact
+1982,no,Jahn Teigen & Anita Skorgan,duet,1,0,0,name_heuristic
+1982,pt,Doce,group,0,1,0,wikidata_exact
+1982,se,Chips,group,0,1,0,wikidata_exact
+1982,tr,Neço,solo_male,0,0,0,wikidata_fuzzy
+1982,yu,Aska,group,0,1,0,wikidata_exact
+1983,at,Westend,group,0,1,0,wikidata_exact
+1983,be,Pas de Deux,group,0,1,0,wikidata_exact
+1983,ch,Mariella Farré,solo_female,0,0,1,wikidata_exact
+1983,cy,Stavros and Constantina,duet,1,0,0,name_heuristic
+1983,de,Hoffmann und Hoffmann,duet,1,0,0,wikidata_fuzzy
+1983,dk,Gry Johansen,solo_female,0,0,1,wikidata_fuzzy
+1983,es,Remedios Amaya,solo_female,0,0,1,wikidata_exact
+1983,fi,Ami Aspelund,solo_female,0,0,1,wikidata_exact
+1983,fr,Guy Bonnet,solo_male,0,0,0,wikidata_exact
+1983,gb,Sweet Dreams,group,0,1,0,wikidata_exact
+1983,gr,Christie Stassinopoulou,solo_ungendered,0,0,0,unresolved
+1983,il,Ofra Haza,solo_female,0,0,1,wikidata_exact
+1983,it,Riccardo Fogli,solo_male,0,0,0,wikidata_exact
+1983,lu,Corinne Hermès,solo_female,0,0,1,wikidata_exact
+1983,nl,Bernadette,solo_female,0,0,1,wikidata_exact
+1983,no,Jahn Teigen,solo_male,0,0,0,wikidata_exact
+1983,pt,Armando Gama,solo_male,0,0,0,wikidata_exact
+1983,se,Carola Häggkvist,solo_female,0,0,1,wikidata_exact
+1983,tr,Çetin Alp and the Short Wave,duet,1,0,0,name_heuristic
+1983,yu,Danijel,solo_male,0,0,0,wikidata_exact
+1984,at,Anita,solo_female,0,0,1,wikidata_exact
+1984,be,Jacques Zegers,solo_male,0,0,0,wikidata_exact
+1984,ch,Rainy Day,group,0,1,0,wikidata_exact
+1984,cy,Andy Paul,solo_male,0,0,0,wikidata_exact
+1984,de,Mary Roos,solo_female,0,0,1,wikidata_exact
+1984,dk,Hot Eyes,duet,1,0,0,wikidata_exact
+1984,es,Bravo,solo_female,0,0,1,wikidata_exact
+1984,fi,Kirka,solo_male,0,0,0,wikidata_exact
+1984,fr,Annick Thoumazeau,solo_female,0,0,1,wikidata_exact
+1984,gb,Belle and the Devotions,group,0,1,0,wikidata_exact
+1984,ie,Linda Martin,solo_female,0,0,1,wikidata_exact
+1984,it,Alice and Battiato,duet,1,0,0,name_heuristic
+1984,lu,Sophie Carle,solo_female,0,0,1,wikidata_exact
+1984,nl,Maribelle,solo_female,0,0,1,wikidata_exact
+1984,no,Dollie de Luxe,group,0,1,0,wikidata_exact
+1984,pt,Maria Guinot,solo_female,0,0,1,wikidata_exact
+1984,se,Herrey's,group,0,1,0,wikidata_fuzzy
+1984,tr,"Bes Yil Önce, On Yil Sonra",group,0,1,0,wikidata_fuzzy
+1984,yu,Vlado and Isolda,duet,1,0,0,name_heuristic
+1985,at,Gary Lux,solo_male,0,0,0,wikidata_exact
+1985,be,Linda Lepomme,solo_female,0,0,1,wikidata_exact
+1985,ch,Mariella Farré and Pino Gasparini,duet,1,0,0,name_heuristic
+1985,cy,Lia Vishy,solo_ungendered,0,0,0,unresolved
+1985,de,Wind,group,0,1,0,wikidata_exact
+1985,dk,Hot Eyes,duet,1,0,0,wikidata_exact
+1985,es,Paloma San Basilio,solo_female,0,0,1,wikidata_exact
+1985,fi,Sonja Lumme,solo_female,0,0,1,wikidata_exact
+1985,fr,Roger Bens,solo_male,0,0,0,wikidata_exact
+1985,gb,Vikki,solo_female,0,0,1,wikidata_exact
+1985,gr,Takis Biniaris,solo_male,0,0,0,wikidata_exact
+1985,ie,Maria Christian,solo_female,0,0,1,wikidata_exact
+1985,il,Izhar Cohen,solo_male,0,0,0,wikidata_exact
+1985,it,Al Bano and Romina Power,group,0,1,0,wikidata_exact
+1985,lu,"Margo, Franck, Diane, Ireen, Malcolm & Chris",duet,1,0,0,name_heuristic
+1985,no,Bobbysocks,duet,1,0,0,wikidata_fuzzy
+1985,pt,Adelaïde,solo_female,0,0,1,wikidata_fuzzy
+1985,se,Kikki Danielsson,solo_female,0,0,1,wikidata_exact
+1985,tr,MFÖ,group,0,1,0,wikidata_exact
+1986,at,Timna Brauer,solo_female,0,0,1,wikidata_exact
+1986,be,Sandra Kim,solo_female,0,0,1,wikidata_exact
+1986,ch,Daniela Simons,solo_female,0,0,1,wikidata_exact
+1986,cy,Elpida,solo_female,0,0,1,wikidata_exact
+1986,de,Ingrid Peters,solo_female,0,0,1,wikidata_exact
+1986,dk,Lise Haavik and Trax,duet,1,0,0,name_heuristic
+1986,es,Cadillac,group,0,1,0,wikidata_exact
+1986,fi,Kari Kuivalainen,solo_male,0,0,0,wikidata_exact
+1986,fr,Cocktail Chic,group,0,1,0,wikidata_exact
+1986,gb,Ryder,solo_male,0,0,0,wikidata_exact
+1986,ie,Luv Bug,group,0,1,0,wikidata_exact
+1986,il,Moti Galadi and Sarai Tzuriel,duet,1,0,0,name_heuristic
+1986,is,Icy,solo_ungendered,0,0,0,wikidata_exact
+1986,lu,Sherisse Laurence,solo_female,0,0,1,wikidata_exact
+1986,nl,Frizzle Sizzle,group,0,1,0,wikidata_exact
+1986,no,Ketil Stokkan,solo_male,0,0,0,wikidata_exact
+1986,pt,Dora,solo_female,0,0,1,wikidata_exact
+1986,se,Lasse Holm & Monica Törnell,duet,1,0,0,name_heuristic
+1986,tr,Klips ve Onlar,group,0,1,0,wikidata_exact
+1986,yu,Doris Dragović,solo_female,0,0,1,wikidata_exact
+1987,at,Gary Lux,solo_male,0,0,0,wikidata_exact
+1987,be,Liliane Saint-Pierre,solo_female,0,0,1,wikidata_exact
+1987,ch,Carole Rich,solo_female,0,0,1,wikidata_exact
+1987,cy,Alexia,solo_female,0,0,1,wikidata_exact
+1987,de,Wind,group,0,1,0,wikidata_exact
+1987,dk,Anne-Cathrine Herdorf,solo_female,0,0,1,wikidata_fuzzy
+1987,es,Patricia Kraus,solo_female,0,0,1,wikidata_exact
+1987,fi,Vicky Rosti,solo_female,0,0,1,wikidata_exact
+1987,fr,Christine Minier,solo_female,0,0,1,wikidata_exact
+1987,gb,Rikki,solo_male,0,0,0,wikidata_exact
+1987,gr,Bang,solo_male,0,0,0,wikidata_exact
+1987,ie,Johnny Logan,solo_male,0,0,0,wikidata_exact
+1987,il,Datner and Kushnir,duet,1,0,0,name_heuristic
+1987,is,Halla Margarét,solo_ungendered,0,0,0,unresolved
+1987,it,Umberto Tozzi and Raf,duet,1,0,0,name_heuristic
+1987,lu,Plastic Bertrand,solo_male,0,0,0,wikidata_exact
+1987,nl,Marcha,solo_female,0,0,1,wikidata_exact
+1987,no,Kate Gulbrandsen,solo_female,0,0,1,wikidata_exact
+1987,pt,Nevada,group,0,1,0,wikidata_exact
+1987,se,Lotta Engberg,solo_female,0,0,1,wikidata_exact
+1987,tr,Seyyal Tanner & Lokomotif,duet,1,0,0,name_heuristic
+1987,yu,Novi Fosili,group,0,1,0,wikidata_fuzzy
+1988,at,Wilfried,solo_male,0,0,0,wikidata_exact
+1988,be,Reynaert,solo_male,0,0,0,wikidata_exact
+1988,ch,Céline Dion,solo_female,0,0,1,wikidata_exact
+1988,de,Maxi and Chris Garden,duet,1,0,0,name_heuristic
+1988,dk,Kirsten & Søren,duet,1,0,0,wikidata_fuzzy
+1988,es,La Década,group,0,1,0,wikidata_exact
+1988,fi,Boulevard,group,0,1,0,wikidata_exact
+1988,fr,Gérard Lenorman,solo_male,0,0,0,wikidata_exact
+1988,gb,Scott Fitzgerald,solo_male,0,0,0,wikidata_exact
+1988,gr,Aphroditi Fryda,solo_ungendered,0,0,0,unresolved
+1988,ie,Jump the Gun,group,0,1,0,wikidata_exact
+1988,il,Yardena Arazi,solo_female,0,0,1,wikidata_exact
+1988,is,Beathoven,group,0,1,0,wikidata_exact
+1988,it,Luca Barbarossa,solo_male,0,0,0,wikidata_exact
+1988,lu,Lara Fabian,solo_female,0,0,1,wikidata_exact
+1988,nl,Gerard Joling,solo_male,0,0,0,wikidata_exact
+1988,no,Karoline Krüger,solo_female,0,0,1,wikidata_exact
+1988,pt,Dora,solo_female,0,0,1,wikidata_exact
+1988,se,Tommy Körberg,solo_male,0,0,0,wikidata_exact
+1988,tr,MFÖ,group,0,1,0,wikidata_exact
+1988,yu,Srebrna Krila,group,0,1,0,wikidata_fuzzy
+1989,at,Thomas Forstner,solo_male,0,0,0,wikidata_exact
+1989,be,Ingeborg,solo_female,0,0,1,wikidata_exact
+1989,ch,Furbaz,group,0,1,0,wikidata_exact
+1989,cy,Fanny Polymeri and Yiannis Savvidakis,duet,1,0,0,name_heuristic
+1989,de,Nino de Angelo,solo_male,0,0,0,wikidata_exact
+1989,dk,Birthe Kjær,solo_female,0,0,1,wikidata_fuzzy
+1989,es,Nina,solo_female,0,0,1,wikidata_exact
+1989,fi,Anneli Saaristo,solo_female,0,0,1,wikidata_exact
+1989,fr,Nathalie Pâque,solo_female,0,0,1,wikidata_exact
+1989,gb,Live Report,group,0,1,0,wikidata_exact
+1989,gr,Marianna,solo_female,0,0,1,wikidata_exact
+1989,ie,Kiev Connolly and the Missing Passengers,duet,1,0,0,name_heuristic
+1989,il,Gili & Galit,duet,1,0,0,wikidata_exact
+1989,is,Daníel Augúst Haraldsson,solo_ungendered,0,0,0,unresolved
+1989,it,Anna Oxa and Fausto Leali,duet,1,0,0,name_heuristic
+1989,lu,Park Café,group,0,1,0,wikidata_exact
+1989,nl,Justine Pelmelay,solo_female,0,0,1,wikidata_exact
+1989,no,Britt Synnøve Johansen,solo_female,0,0,1,wikidata_fuzzy
+1989,pt,Da Vinci,solo_male,0,0,0,wikidata_exact
+1989,se,Tommy Nilsson,solo_male,0,0,0,wikidata_exact
+1989,tr,Pan,solo_male,0,0,0,wikidata_exact
+1989,yu,Riva,group,0,1,0,wikidata_exact
+1990,at,Simone,solo_female,0,0,1,wikidata_exact
+1990,be,Philippe Lafontaine,solo_male,0,0,0,wikidata_exact
+1990,ch,Egon Egemann,solo_male,0,0,0,wikidata_exact
+1990,cy,Haris Anastasiou,solo_male,0,0,0,wikidata_exact
+1990,de,Chris Kempers and Daniel Kovac,duet,1,0,0,name_heuristic
+1990,dk,Lonnie Devantier,solo_female,0,0,1,wikidata_fuzzy
+1990,es,Azúcar Moreno,duet,1,0,0,wikidata_exact
+1990,fi,Beat,group,0,1,0,wikidata_exact
+1990,fr,Joelle Ursull,solo_female,0,0,1,wikidata_fuzzy
+1990,gb,Emma,solo_female,0,0,1,wikidata_exact
+1990,gr,Christos Callow and Wave,duet,1,0,0,name_heuristic
+1990,ie,Liam Reilly,solo_male,0,0,0,wikidata_exact
+1990,il,Rita,solo_female,0,0,1,wikidata_exact
+1990,is,Stjórnin,duet,1,0,0,wikidata_exact
+1990,it,Toto Cutugno,solo_male,0,0,0,wikidata_exact
+1990,lu,Céline Carzo,solo_female,0,0,1,wikidata_exact
+1990,nl,Maywood,duet,1,0,0,wikidata_exact
+1990,no,Ketil Stokkan,solo_male,0,0,0,wikidata_exact
+1990,pt,Nucha,solo_female,0,0,1,wikidata_exact
+1990,se,Edin-Ådahl,group,0,1,0,wikidata_exact
+1990,tr,Kayahan,solo_male,0,0,0,wikidata_exact
+1990,yu,Tajci,solo_female,0,0,1,wikidata_fuzzy
+1991,at,Thomas Forstner,solo_male,0,0,0,wikidata_exact
+1991,be,Clouseau,group,0,1,0,wikidata_exact
+1991,ch,Sandra Simò,solo_female,0,0,1,wikidata_fuzzy
+1991,cy,Elena Patroclou,solo_ungendered,0,0,0,unresolved
+1991,de,Atlantis 2000,group,0,1,0,wikidata_exact
+1991,dk,Anders Frandsen,solo_male,0,0,0,wikidata_exact
+1991,es,Sergio Dalma,solo_male,0,0,0,wikidata_exact
+1991,fi,Kaija,solo_female,0,0,1,wikidata_fuzzy
+1991,fr,Amina,solo_female,0,0,1,wikidata_exact
+1991,gb,Samantha Janus,solo_female,0,0,1,wikidata_exact
+1991,gr,Sofia Vossou,solo_female,0,0,1,wikidata_exact
+1991,ie,Kim Jackson,solo_female,0,0,1,wikidata_exact
+1991,il,Duo Datz,duet,1,0,0,wikidata_exact
+1991,is,Stefán and Eyfi,group,0,1,0,wikidata_exact
+1991,it,Peppino di Capri,solo_male,0,0,0,wikidata_exact
+1991,lu,Sarah Bray,solo_female,0,0,1,wikidata_exact
+1991,mt,Paul Giordimaina and Georgina,duet,1,0,0,name_heuristic
+1991,no,Just 4 Fun,group,0,1,0,wikidata_exact
+1991,pt,Dulce,solo_female,0,0,1,wikidata_exact
+1991,se,Carola,solo_female,0,0,1,wikidata_exact
+1991,tr,"Izel Çeliköz, Rayhan Soykarçi and Can Ugurluér",duet,1,0,0,name_heuristic
+1991,yu,Baby Doll,solo_ungendered,0,0,0,unresolved
+1992,at,Tony Wegas,solo_male,0,0,0,wikidata_exact
+1992,be,Morgane,solo_female,0,0,1,wikidata_exact
+1992,ch,Daisy Auvray,solo_female,0,0,1,wikidata_exact
+1992,cy,Evridiki,solo_female,0,0,1,wikidata_exact
+1992,de,Wind,group,0,1,0,wikidata_exact
+1992,dk,Kenny & Lotte,duet,1,0,0,name_heuristic
+1992,es,Serafin,solo_male,0,0,0,wikidata_exact
+1992,fi,Pave,solo_ungendered,0,0,0,wikidata_fuzzy
+1992,fr,Kali,solo_male,0,0,0,wikidata_exact
+1992,gb,Michael Ball,solo_male,0,0,0,wikidata_exact
+1992,gr,Cleopatra,solo_female,0,0,1,wikidata_exact
+1992,ie,Linda Martin,solo_female,0,0,1,wikidata_exact
+1992,il,Dafna,solo_female,0,0,1,wikidata_fuzzy
+1992,is,Heart 2 Heart,group,0,1,0,wikidata_exact
+1992,it,Mia Martini,solo_female,0,0,1,wikidata_exact
+1992,lu,Marion Welter and Kontinent,duet,1,0,0,name_heuristic
+1992,mt,Mary Spiteri,solo_female,0,0,1,wikidata_exact
+1992,nl,Humphrey Campbell,solo_male,0,0,0,wikidata_exact
+1992,no,Merethe Trøan,solo_female,0,0,1,wikidata_exact
+1992,pt,Diná,solo_female,0,0,1,wikidata_fuzzy
+1992,se,Christer Björkman,solo_male,0,0,0,wikidata_exact
+1992,tr,Aylin Vatankos,solo_female,0,0,1,wikidata_fuzzy
+1992,yu,Extra Nena,solo_female,0,0,1,wikidata_fuzzy
+1993,at,Tony Wegas,solo_male,0,0,0,wikidata_exact
+1993,ba,Fazla,solo_male,0,0,0,wikidata_exact
+1993,be,Barbara,solo_female,0,0,1,wikidata_exact
+1993,ch,Annie Cotton,solo_female,0,0,1,wikidata_exact
+1993,cy,Kyriakos Zymboulakis & Demos Van Beke,duet,1,0,0,name_heuristic
+1993,de,Münchener Freiheit,group,0,1,0,wikidata_exact
+1993,dk,Tommy Seebach Band,group,0,1,0,name_heuristic
+1993,es,Eva Santamaria,solo_female,0,0,1,wikidata_exact
+1993,fi,Katri-Helena,solo_female,0,0,1,wikidata_fuzzy
+1993,fr,Patrick Fiori,solo_male,0,0,0,wikidata_exact
+1993,gb,Sonia,solo_female,0,0,1,wikidata_exact
+1993,gr,Kaiti Garbi,solo_female,0,0,1,wikidata_fuzzy
+1993,hr,Put,group,0,1,0,wikidata_exact
+1993,ie,Niamh Kavanagh,solo_female,0,0,1,wikidata_exact
+1993,il,Lakahat Shiru,solo_ungendered,0,0,0,unresolved
+1993,is,Inga,solo_female,0,0,1,wikidata_exact
+1993,it,Enrico Ruggeri,solo_male,0,0,0,wikidata_exact
+1993,lu,Modern Times,group,0,1,0,wikidata_exact
+1993,mt,William Mangion,solo_male,0,0,0,wikidata_exact
+1993,nl,Ruth Jacott,solo_female,0,0,1,wikidata_exact
+1993,no,Silje Vige,solo_female,0,0,1,wikidata_exact
+1993,pt,Anabela,solo_female,0,0,1,wikidata_exact
+1993,se,Arvingarna,group,0,1,0,wikidata_exact
+1993,si,1X Band,group,0,1,0,wikidata_fuzzy
+1993,tr,"Burak Aydos, Öztürk Baybora & Serter",duet,1,0,0,name_heuristic
+1994,at,Petra Frey,solo_female,0,0,1,wikidata_exact
+1994,ba,Alma and Dejan,duet,1,0,0,name_heuristic
+1994,ch,Duilio,solo_male,0,0,0,wikidata_exact
+1994,cy,Evridiki,solo_female,0,0,1,wikidata_exact
+1994,de,MeKaDo,group,0,1,0,wikidata_fuzzy
+1994,ee,Silvi Vrait,solo_female,0,0,1,wikidata_exact
+1994,es,Alejandro Abad,solo_male,0,0,0,wikidata_exact
+1994,fi,CatCat,duet,1,0,0,wikidata_exact
+1994,fr,Nina Morato,solo_female,0,0,1,wikidata_exact
+1994,gb,Frances Ruffelle,solo_female,0,0,1,wikidata_exact
+1994,gr,Costas Bigalis and the Sea Lovers,duet,1,0,0,name_heuristic
+1994,hr,Tony Cetinski,solo_male,0,0,0,wikidata_exact
+1994,hu,Friderika Bayer,solo_female,0,0,1,wikidata_exact
+1994,ie,Paul Harrington & Charlie McGettigan,group,0,1,0,wikidata_fuzzy
+1994,is,Sigga,solo_female,0,0,1,wikidata_exact
+1994,lt,Ovidijus Vyšniauskas,solo_male,0,0,0,wikidata_exact
+1994,mt,Moira Stafrace and Christopher Scicluna,duet,1,0,0,wikidata_fuzzy
+1994,nl,Willeke Alberti,solo_female,0,0,1,wikidata_exact
+1994,no,Elisabeth Andreasson & Jan Werner Danielsen,duet,1,0,0,name_heuristic
+1994,pl,Edyta Górniak,solo_female,0,0,1,wikidata_exact
+1994,pt,Sara Tavares,solo_female,0,0,1,wikidata_exact
+1994,ro,Dan Bittman,solo_male,0,0,0,wikidata_fuzzy
+1994,ru,Youddiph,solo_female,0,0,1,wikidata_exact
+1994,se,Marie Bergman and Roger Pontare,duet,1,0,0,name_heuristic
+1994,sk,Martin Durinda and Tublatanka,duet,1,0,0,name_heuristic
+1995,at,Stella Jones,solo_female,0,0,1,wikidata_exact
+1995,ba,Davor Popovic,solo_male,0,0,0,wikidata_fuzzy
+1995,be,Frédéric Etherlinck,solo_male,0,0,0,wikidata_exact
+1995,cy,Alexandros Panayi,solo_male,0,0,0,wikidata_exact
+1995,de,Stone and Stone,duet,1,0,0,wikidata_exact
+1995,dk,Aud Wilken,solo_female,0,0,1,wikidata_exact
+1995,es,Anabel Conde,solo_female,0,0,1,wikidata_exact
+1995,fr,Nathalie Santamaria,solo_female,0,0,1,wikidata_exact
+1995,gb,Love City Groove,group,0,1,0,wikidata_exact
+1995,gr,Elina Constantopoulou,solo_ungendered,0,0,0,unresolved
+1995,hr,Magazin and Lidija,duet,1,0,0,name_heuristic
+1995,hu,Czaba Szigeti,solo_ungendered,0,0,0,unresolved
+1995,ie,Eddie Friel,solo_male,0,0,0,wikidata_exact
+1995,il,Liora,solo_female,0,0,1,wikidata_exact
+1995,is,Bó Halldórsson,solo_male,0,0,0,wikidata_fuzzy
+1995,mt,Mike Spiteri,solo_male,0,0,0,wikidata_exact
+1995,no,Secret Garden,group,0,1,0,wikidata_exact
+1995,pl,Justyna,solo_female,0,0,1,wikidata_fuzzy
+1995,pt,Tó Cruz,solo_male,0,0,0,wikidata_exact
+1995,ru,Philipp Kirkorov,solo_male,0,0,0,wikidata_exact
+1995,se,Jan Johansen,solo_male,0,0,0,wikidata_exact
+1995,si,Darja Svajger,solo_female,0,0,1,wikidata_exact
+1995,tr,Arzu Ece,solo_female,0,0,1,wikidata_exact
+1996,at,George Nußbaumer,solo_male,0,0,0,wikidata_fuzzy
+1996,ba,Amila Glamocak,solo_female,0,0,1,wikidata_exact
+1996,be,Lisa del Bo,solo_female,0,0,1,wikidata_exact
+1996,ch,Cathy Leander,solo_ungendered,0,0,0,unresolved
+1996,cy,Constantinos,solo_male,0,0,0,wikidata_exact
+1996,ee,Ivo Linna and Maarja-Liis Ilus,duet,1,0,0,name_heuristic
+1996,es,Antonio Carbonell,solo_male,0,0,0,wikidata_exact
+1996,fi,Jasmine,solo_female,0,0,1,wikidata_exact
+1996,fr,Dan Ar Braz et l'Héritage des Celtes,group,0,1,0,wikidata_fuzzy
+1996,gb,Gina G,solo_female,0,0,1,wikidata_exact
+1996,gr,Marianna Efstratiou,solo_female,0,0,1,wikidata_fuzzy
+1996,hr,Maja Blagdan,solo_female,0,0,1,wikidata_exact
+1996,ie,Eimear Quinn,solo_female,0,0,1,wikidata_exact
+1996,is,Anna Mjöll,solo_female,0,0,1,wikidata_fuzzy
+1996,mt,Miriam Christine,solo_female,0,0,1,wikidata_exact
+1996,nl,Maxine & Franklin Brown,duet,1,0,0,name_heuristic
+1996,no,Elisabeth Andreasson,solo_female,0,0,1,wikidata_exact
+1996,pl,Kasia Kowalska,solo_female,0,0,1,wikidata_exact
+1996,pt,Lúcia Moniz,solo_female,0,0,1,wikidata_exact
+1996,se,One More Time,group,0,1,0,wikidata_exact
+1996,si,Regina,group,0,1,0,wikidata_exact
+1996,sk,Marcel Palonder,solo_male,0,0,0,wikidata_exact
+1996,tr,Şebnem Paker,solo_female,0,0,1,wikidata_exact
+1997,at,Bettina Soriat,solo_female,0,0,1,wikidata_exact
+1997,ba,Alma Cardzic,solo_female,0,0,1,wikidata_exact
+1997,ch,Barbara Berta,solo_female,0,0,1,wikidata_exact
+1997,cy,Chara and Andreas Konstantinou,duet,1,0,0,name_heuristic
+1997,de,Bianca Shomburg,solo_female,0,0,1,wikidata_exact
+1997,dk,Kølig Kaj,solo_male,0,0,0,wikidata_exact
+1997,ee,Maarja-Liis Ilus,solo_female,0,0,1,wikidata_exact
+1997,es,Marcos Llunas,solo_male,0,0,0,wikidata_exact
+1997,fr,Fanny,group,0,1,0,wikidata_exact
+1997,gb,Katrina and The Waves,group,0,1,0,wikidata_fuzzy
+1997,gr,Marianna Zorba,solo_female,0,0,1,wikidata_exact
+1997,hr,ENI,solo_female,0,0,1,wikidata_fuzzy
+1997,hu,VIP,group,0,1,0,wikidata_exact
+1997,ie,Marc Roberts,solo_male,0,0,0,wikidata_exact
+1997,is,Paul Oscar,solo_male,0,0,0,wikidata_exact
+1997,it,Jalisse,group,0,1,0,wikidata_exact
+1997,mt,Debbie Scerri,solo_female,0,0,1,wikidata_exact
+1997,nl,Mrs. Einstein,group,0,1,0,wikidata_exact
+1997,no,Tor Endresen,solo_male,0,0,0,wikidata_exact
+1997,pl,Anna Maria Jopek,solo_female,0,0,1,wikidata_fuzzy
+1997,pt,Célia Lawson,solo_female,0,0,1,wikidata_exact
+1997,ru,Alla Pugachova,solo_female,0,0,1,wikidata_exact
+1997,se,Blond,group,0,1,0,wikidata_exact
+1997,si,Tanja Ribič,solo_female,0,0,1,wikidata_exact
+1997,tr,Sebnem Paker and Group Etnic,group,0,1,0,name_heuristic
+1998,be,Mélanie Cohl,solo_female,0,0,1,wikidata_exact
+1998,ch,Gunvor,solo_female,0,0,1,wikidata_fuzzy
+1998,cy,Michael Hajiyanni,solo_ungendered,0,0,0,unresolved
+1998,de,Guildo Horn,solo_male,0,0,0,wikidata_exact
+1998,ee,Koit Toome,solo_male,0,0,0,wikidata_exact
+1998,es,Mikel Herzog,solo_male,0,0,0,wikidata_exact
+1998,fi,Edea,group,0,1,0,wikidata_exact
+1998,fr,Marie-Line,solo_female,0,0,1,wikidata_fuzzy
+1998,gb,Imaani,solo_female,0,0,1,wikidata_exact
+1998,gr,Dionysia and Thalassa group,group,0,1,0,name_heuristic
+1998,hr,Danijela,solo_female,0,0,1,wikidata_exact
+1998,hu,Charlie,solo_male,0,0,0,wikidata_exact
+1998,ie,Dawn,solo_male,0,0,0,wikidata_exact
+1998,il,Dana International,solo_female,0,0,1,wikidata_exact
+1998,mk,Vlado Janevski,solo_male,0,0,0,wikidata_exact
+1998,mt,Chiara,solo_female,0,0,1,wikidata_exact
+1998,nl,Edsilia Rombley,solo_female,0,0,1,wikidata_exact
+1998,no,Lars A. Fredriksen,solo_male,0,0,0,wikidata_exact
+1998,pl,Sixteen,group,0,1,0,wikidata_exact
+1998,pt,Alma Lusa,group,0,1,0,wikidata_exact
+1998,ro,Malina Olinescu,solo_female,0,0,1,wikidata_exact
+1998,se,Jill Johnson,solo_female,0,0,1,wikidata_exact
+1998,si,Vili Resnik,solo_male,0,0,0,wikidata_exact
+1998,sk,Katarína Hasprová,solo_female,0,0,1,wikidata_exact
+1998,tr,Tüzmen,solo_male,0,0,0,wikidata_exact
+1999,at,Bobbie Singer,solo_female,0,0,1,wikidata_exact
+1999,ba,Dino and Beatrice,duet,1,0,0,name_heuristic
+1999,be,Venessa Chinitor,solo_ungendered,0,0,0,unresolved
+1999,cy,Marlain Angelidou,solo_female,0,0,1,wikidata_fuzzy
+1999,de,Sürpriz,group,0,1,0,wikidata_exact
+1999,dk,Trine Jepsen & Michael Teschl,duet,1,0,0,name_heuristic
+1999,ee,Evelin Samuel and Camille,duet,1,0,0,name_heuristic
+1999,es,Lydia,solo_female,0,0,1,wikidata_exact
+1999,fr,Nayah,solo_female,0,0,1,wikidata_exact
+1999,gb,Precious,group,0,1,0,wikidata_exact
+1999,hr,Doris Dragović,solo_female,0,0,1,wikidata_exact
+1999,ie,The Mullan's,solo_ungendered,0,0,0,unresolved
+1999,il,Eden,solo_male,0,0,0,wikidata_exact
+1999,is,Selma Björnsdóttir,solo_female,0,0,1,wikidata_exact
+1999,lt,Aiste Smilgeviciute,solo_female,0,0,1,wikidata_fuzzy
+1999,mt,Times 3,group,0,1,0,wikidata_fuzzy
+1999,nl,Marlayne,solo_female,0,0,1,wikidata_exact
+1999,no,Stig André Van Eijk,solo_male,0,0,0,wikidata_fuzzy
+1999,pl,Mietek Szczesniak,solo_male,0,0,0,wikidata_fuzzy
+1999,pt,Rui Bandeira,solo_male,0,0,0,wikidata_exact
+1999,se,Charlotte Nilsson,solo_female,0,0,1,wikidata_exact
+1999,si,Darja Svajger,solo_female,0,0,1,wikidata_exact
+1999,tr,Tuba Önal & Grup Mystik,duet,1,0,0,name_heuristic
+2000,at,The rounder girls,group,0,1,0,wikidata_fuzzy
+2000,be,Nathalie Sorce,solo_female,0,0,1,wikidata_exact
+2000,ch,Jane Bogaert,solo_female,0,0,1,wikidata_exact
+2000,cy,Voice,duet,1,0,0,wikidata_exact
+2000,de,Stefan Raab,solo_male,0,0,0,wikidata_exact
+2000,dk,Olsen brothers,duet,1,0,0,wikidata_fuzzy
+2000,ee,Ines,solo_female,0,0,1,wikidata_exact
+2000,es,Serafín Zubiri,solo_male,0,0,0,wikidata_exact
+2000,fi,Nina Åström,solo_female,0,0,1,wikidata_exact
+2000,fr,Sofia Mestari,solo_female,0,0,1,wikidata_exact
+2000,gb,Nicki French,solo_female,0,0,1,wikidata_exact
+2000,hr,Goran Karan,solo_male,0,0,0,wikidata_exact
+2000,ie,Eamonn Toal,solo_male,0,0,0,wikidata_exact
+2000,il,Ping Pong,solo_male,0,0,0,wikidata_exact
+2000,is,August & Telma,duet,1,0,0,wikidata_fuzzy
+2000,lv,BrainStorm,group,0,1,0,wikidata_exact
+2000,mk,XXL,group,0,1,0,wikidata_exact
+2000,mt,Claudette Pace,solo_female,0,0,1,wikidata_exact
+2000,nl,Linda Wagenmakers,solo_female,0,0,1,wikidata_exact
+2000,no,Charmed,group,0,1,0,wikidata_exact
+2000,ro,Taxi,group,0,1,0,wikidata_exact
+2000,ru,Alsou,solo_female,0,0,1,wikidata_exact
+2000,se,Roger Pontare,solo_male,0,0,0,wikidata_exact
+2000,tr,Pinar Ayhan & S.O.S. band,group,0,1,0,name_heuristic
+2001,ba,Nino,solo_male,0,0,0,wikidata_exact
+2001,de,Michelle,solo_female,0,0,1,wikidata_exact
+2001,dk,Rollo & King,duet,1,0,0,wikidata_exact
+2001,ee,"Tanel Padar, Dave Benton & 2XL",duet,1,0,0,name_heuristic
+2001,es,David Civera,solo_male,0,0,0,wikidata_exact
+2001,fr,Natasha Saint-Pier,solo_female,0,0,1,wikidata_fuzzy
+2001,gb,Lindsay D.,solo_ungendered,0,0,0,wikidata_fuzzy
+2001,gr,Antique,duet,1,0,0,wikidata_exact
+2001,hr,Vanna,solo_female,0,0,1,wikidata_exact
+2001,ie,Gary O'Shaughnessy,solo_male,0,0,0,wikidata_exact
+2001,il,Tal Sondak,solo_male,0,0,0,wikidata_exact
+2001,is,TwoTricky,group,0,1,0,wikidata_fuzzy
+2001,lt,Skamp,group,0,1,0,wikidata_fuzzy
+2001,lv,Arnis Mednis,solo_male,0,0,0,wikidata_exact
+2001,mt,Fabrizio Faniello,solo_male,0,0,0,wikidata_exact
+2001,nl,Michelle,solo_female,0,0,1,wikidata_exact
+2001,no,Haldor Lægreid,solo_male,0,0,0,wikidata_exact
+2001,pl,Piasek,solo_male,0,0,0,wikidata_exact
+2001,pt,MTM,group,0,1,0,wikidata_exact
+2001,ru,Mumiy troll,group,0,1,0,wikidata_fuzzy
+2001,se,Friends,group,0,1,0,wikidata_exact
+2001,si,Nua Derenda,solo_ungendered,0,0,0,unresolved
+2001,tr,Sedat Yüce,solo_male,0,0,0,wikidata_exact
+2002,at,Manuel Ortega,solo_male,0,0,0,wikidata_exact
+2002,ba,Maja,solo_male,0,0,0,wikidata_exact
+2002,be,Sergio & the Ladies,group,0,1,0,wikidata_exact
+2002,ch,Francine Jordi,solo_female,0,0,1,wikidata_exact
+2002,cy,One,solo_male,0,0,0,wikidata_exact
+2002,de,Corinna May,solo_female,0,0,1,wikidata_exact
+2002,dk,Malene,solo_female,0,0,1,wikidata_fuzzy
+2002,ee,Sahléne,solo_female,0,0,1,wikidata_fuzzy
+2002,es,Rosa,solo_female,0,0,1,wikidata_exact
+2002,fi,Laura,solo_female,0,0,1,wikidata_exact
+2002,fr,Sandrine François,solo_female,0,0,1,wikidata_exact
+2002,gb,Jessica Garlick,solo_female,0,0,1,wikidata_exact
+2002,gr,Michalis Rakintzis,solo_male,0,0,0,wikidata_exact
+2002,hr,Vesna Pisarovic,solo_female,0,0,1,wikidata_fuzzy
+2002,il,Sarit Hadad,solo_female,0,0,1,wikidata_exact
+2002,lt,Aivaras,solo_male,0,0,0,wikidata_fuzzy
+2002,lv,Marie N,solo_female,0,0,1,wikidata_fuzzy
+2002,mk,Karolina,solo_female,0,0,1,wikidata_exact
+2002,mt,Ira Losco,solo_female,0,0,1,wikidata_exact
+2002,ro,Monica Anghel & Marcel Pavel,duet,1,0,0,name_heuristic
+2002,ru,Prime minister,solo_ungendered,0,0,0,unresolved
+2002,se,Afro-dite,group,0,1,0,wikidata_exact
+2002,si,Sestre,group,0,1,0,wikidata_fuzzy
+2002,tr,Buket Bengisu & Saphire,duet,1,0,0,name_heuristic
+2003,at,Alf Poier,solo_male,0,0,0,wikidata_exact
+2003,ba,Mija Martina,solo_female,0,0,1,wikidata_exact
+2003,be,Urban Trad,group,0,1,0,wikidata_exact
+2003,cy,Stelios Constantas,solo_male,0,0,0,wikidata_exact
+2003,de,Lou,solo_female,0,0,1,wikidata_exact
+2003,ee,Ruffus,group,0,1,0,wikidata_exact
+2003,es,Beth,solo_female,0,0,1,wikidata_exact
+2003,fr,Louisa Baileche,solo_female,0,0,1,wikidata_fuzzy
+2003,gb,Jemini,duet,1,0,0,wikidata_exact
+2003,gr,Mando,solo_female,0,0,1,wikidata_exact
+2003,hr,Claudia Beni,solo_female,0,0,1,wikidata_exact
+2003,ie,Mickey Harte,solo_male,0,0,0,wikidata_exact
+2003,il,Lior Narkis,solo_male,0,0,0,wikidata_exact
+2003,is,Birgitta,solo_female,0,0,1,wikidata_exact
+2003,lv,F.L.Y.,group,0,1,0,wikidata_exact
+2003,mt,Lynn Chirchop,solo_ungendered,0,0,0,unresolved
+2003,nl,Esther Hart,solo_female,0,0,1,wikidata_exact
+2003,no,Jostein Hasselgård,solo_male,0,0,0,wikidata_exact
+2003,pl,Ich Troje,group,0,1,0,wikidata_exact
+2003,pt,Rita Guerra,solo_female,0,0,1,wikidata_exact
+2003,ro,Nicola,solo_female,0,0,1,wikidata_exact
+2003,ru,t.A.T.u.,duet,1,0,0,wikidata_exact
+2003,se,Fame,duet,1,0,0,wikidata_exact
+2003,si,Karmen,solo_female,0,0,1,wikidata_exact
+2003,tr,Sertab Erener,solo_female,0,0,1,wikidata_exact
+2003,ua,Olexandr,solo_ungendered,0,0,0,wikidata_fuzzy
+2004,al,Anjeza Shahini,solo_female,0,0,1,wikidata_exact
+2004,at,Tie Break,group,0,1,0,wikidata_exact
+2004,ba,Deen,solo_male,0,0,0,wikidata_exact
+2004,be,Xandee,solo_female,0,0,1,wikidata_exact
+2004,cs,Željko Joksimović,solo_male,0,0,0,wikidata_exact
+2004,cy,Lisa Andreas,solo_female,0,0,1,wikidata_exact
+2004,de,Max,solo_male,0,0,0,wikidata_exact
+2004,es,Ramón,solo_male,0,0,0,wikidata_exact
+2004,fr,Jonatan Cerrada,solo_male,0,0,0,wikidata_exact
+2004,gb,James Fox,solo_male,0,0,0,wikidata_exact
+2004,gr,Sakis Rouvas,solo_male,0,0,0,wikidata_exact
+2004,hr,Ivan Mikulic,solo_male,0,0,0,wikidata_exact
+2004,ie,Chris Doran,solo_male,0,0,0,wikidata_exact
+2004,is,Jónsi,solo_male,0,0,0,wikidata_exact
+2004,mk,Tose Proeski,solo_male,0,0,0,wikidata_exact
+2004,mt,Julie & Ludwig,duet,1,0,0,wikidata_exact
+2004,nl,Re-union,duet,1,0,0,wikidata_exact
+2004,no,Knut Anders Sørum,solo_male,0,0,0,wikidata_exact
+2004,pl,Blue Cafe,group,0,1,0,wikidata_exact
+2004,ro,Sanda Ladosi,solo_female,0,0,1,wikidata_exact
+2004,ru,Julia Savicheva,solo_female,0,0,1,wikidata_exact
+2004,se,Lena Philipsson,solo_female,0,0,1,wikidata_exact
+2004,tr,Athena,group,0,1,0,wikidata_exact
+2004,ua,Ruslana,solo_female,0,0,1,wikidata_exact
+2005,al,Ledina Celo,solo_female,0,0,1,wikidata_fuzzy
+2005,ba,Feminnem,group,0,1,0,wikidata_exact
+2005,ch,Vanilla Ninja,group,0,1,0,wikidata_exact
+2005,cs,No Name,group,0,1,0,wikidata_exact
+2005,cy,Constantinos Christoforou,solo_male,0,0,0,wikidata_exact
+2005,de,Gracia,solo_female,0,0,1,wikidata_exact
+2005,dk,Jakob Sveistrup,solo_male,0,0,0,wikidata_fuzzy
+2005,es,Son de sol,group,0,1,0,wikidata_fuzzy
+2005,fr,Ortal,solo_ungendered,0,0,0,unresolved
+2005,gb,Javine,solo_female,0,0,1,wikidata_exact
+2005,gr,Helena Paparizou,solo_female,0,0,1,wikidata_exact
+2005,hr,Boris Novkovic feat. Lado members,group,0,1,0,name_heuristic
+2005,hu,NOX,solo_female,0,0,1,wikidata_exact
+2005,il,Shiri Maymon,solo_female,0,0,1,wikidata_fuzzy
+2005,lv,Walter & Kazha,duet,1,0,0,name_heuristic
+2005,md,Zdob şi Zdub,group,0,1,0,wikidata_exact
+2005,mk,Martin Vucic,solo_male,0,0,0,wikidata_fuzzy
+2005,mt,Chiara,solo_female,0,0,1,wikidata_exact
+2005,no,Wig Wam,group,0,1,0,wikidata_exact
+2005,ro,Luminita Anghel & Sistem,duet,1,0,0,name_heuristic
+2005,ru,Natalia Podolskaya,solo_female,0,0,1,wikidata_exact
+2005,se,Martin Stenmarck,solo_male,0,0,0,wikidata_exact
+2005,tr,Gülseren,solo_female,0,0,1,wikidata_fuzzy
+2005,ua,Greenjolly,group,0,1,0,wikidata_fuzzy
+2006,am,André,solo_male,0,0,0,wikidata_exact
+2006,ba,Hari Mata Hari,group,0,1,0,wikidata_exact
+2006,ch,Six4One,group,0,1,0,wikidata_fuzzy
+2006,de,Texas Lightning,group,0,1,0,wikidata_exact
+2006,dk,Sidsel Ben Semmane,solo_female,0,0,1,wikidata_exact
+2006,es,Las Ketchup,group,0,1,0,wikidata_exact
+2006,fi,Lordi,group,0,1,0,wikidata_exact
+2006,fr,Virginie Pouchin,solo_female,0,0,1,wikidata_fuzzy
+2006,gb,Daz Sampson,solo_male,0,0,0,wikidata_exact
+2006,gr,Anna Vissi,solo_female,0,0,1,wikidata_exact
+2006,hr,Severina,solo_female,0,0,1,wikidata_exact
+2006,ie,Brian Kennedy,solo_male,0,0,0,wikidata_exact
+2006,il,Eddie Butler,solo_male,0,0,0,wikidata_exact
+2006,lt,LT United,group,0,1,0,wikidata_exact
+2006,lv,Cosmos,group,0,1,0,wikidata_exact
+2006,md,Arsenium & Natalia Gordienko,duet,1,0,0,name_heuristic
+2006,mk,Elena Risteska,solo_female,0,0,1,wikidata_exact
+2006,mt,Fabrizio Faniello,solo_male,0,0,0,wikidata_exact
+2006,no,Christine Guldbrandsen,solo_female,0,0,1,wikidata_exact
+2006,ro,Mihai Traistariu,solo_male,0,0,0,wikidata_fuzzy
+2006,ru,Dima Bilan,solo_male,0,0,0,wikidata_exact
+2006,se,Carola,solo_female,0,0,1,wikidata_exact
+2006,tr,Sibel Tüzün,solo_female,0,0,1,wikidata_exact
+2006,ua,Tina Karol,solo_female,0,0,1,wikidata_exact
+2007,am,Hayko,solo_male,0,0,0,wikidata_exact
+2007,ba,Marija Sestic,solo_female,0,0,1,wikidata_fuzzy
+2007,bg,Elitsa Todorova & Stoyan Yankulov,duet,1,0,0,name_heuristic
+2007,by,Dmitry Koldun,solo_male,0,0,0,wikidata_exact
+2007,de,Roger Cicero,solo_male,0,0,0,wikidata_exact
+2007,es,NASH,solo_male,0,0,0,wikidata_fuzzy
+2007,fi,Hanna Pakarinen,solo_female,0,0,1,wikidata_exact
+2007,fr,Les Fatals Picards,group,0,1,0,wikidata_exact
+2007,gb,Scooch,group,0,1,0,wikidata_exact
+2007,ge,Sopho,solo_ungendered,0,0,0,unresolved
+2007,gr,Sarbel,solo_male,0,0,0,wikidata_exact
+2007,hu,Magdi Rúzsa,solo_female,0,0,1,wikidata_exact
+2007,ie,Dervish,group,0,1,0,wikidata_exact
+2007,lt,4Fun,group,0,1,0,wikidata_exact
+2007,lv,Bonaparti.lv,group,0,1,0,wikidata_exact
+2007,md,Natalia Barbu,solo_female,0,0,1,wikidata_exact
+2007,mk,Karolina,solo_female,0,0,1,wikidata_exact
+2007,ro,Todomondo,group,0,1,0,wikidata_exact
+2007,rs,Marija Šerifović,solo_female,0,0,1,wikidata_exact
+2007,ru,Serebro,group,0,1,0,wikidata_exact
+2007,se,The Ark,group,0,1,0,wikidata_exact
+2007,si,Alenka Gotar,solo_female,0,0,1,wikidata_exact
+2007,tr,Kenan Dogulu,solo_male,0,0,0,wikidata_exact
+2007,ua,Verka Serduchka,solo_male,0,0,0,wikidata_exact
+2008,al,Olta Boka,solo_female,0,0,1,wikidata_exact
+2008,am,Sirusho,solo_female,0,0,1,wikidata_exact
+2008,az,Elnur & Samir,duet,1,0,0,name_heuristic
+2008,ba,Laka,solo_male,0,0,0,wikidata_exact
+2008,de,No Angels,group,0,1,0,wikidata_exact
+2008,dk,Simon Mathew,solo_male,0,0,0,wikidata_exact
+2008,es,Rodolfo Chikilicuatre,solo_ungendered,0,0,0,unresolved
+2008,fi,Teräsbetoni,group,0,1,0,wikidata_exact
+2008,fr,Sébastien Tellier,solo_male,0,0,0,wikidata_exact
+2008,gb,Andy Abraham,solo_male,0,0,0,wikidata_exact
+2008,ge,Diana Gurtskaya,solo_female,0,0,1,wikidata_exact
+2008,gr,Kalomira,solo_female,0,0,1,wikidata_exact
+2008,hr,Kraljevi Ulice & 75 Cents,duet,1,0,0,name_heuristic
+2008,il,Boaz,solo_male,0,0,0,wikidata_fuzzy
+2008,is,Euroband,group,0,1,0,wikidata_exact
+2008,lv,Pirates Of The Sea,group,0,1,0,wikidata_fuzzy
+2008,no,Maria,solo_female,0,0,1,wikidata_exact
+2008,pl,Isis Gee,solo_female,0,0,1,wikidata_exact
+2008,pt,Vânia Fernandes,solo_female,0,0,1,wikidata_exact
+2008,ro,Nico & Vlad,duet,1,0,0,name_heuristic
+2008,rs,Jelena Tomašević feat. Bora Dugic,group,0,1,0,name_heuristic
+2008,ru,Dima Bilan,solo_male,0,0,0,wikidata_exact
+2008,se,Charlotte Perrelli,solo_female,0,0,1,wikidata_exact
+2008,tr,Mor ve Ötesi,group,0,1,0,wikidata_exact
+2008,ua,Ani Lorak,solo_female,0,0,1,wikidata_exact
+2009,al,Kejsi Tola,solo_female,0,0,1,wikidata_exact
+2009,am,Inga & Anush,duet,1,0,0,wikidata_fuzzy
+2009,az,AySel & Arash,duet,1,0,0,name_heuristic
+2009,ba,Regina,group,0,1,0,wikidata_exact
+2009,de,Alex Swings Oscar Sings!,duet,1,0,0,wikidata_exact
+2009,dk,Brinck,solo_male,0,0,0,wikidata_exact
+2009,ee,Urban Symphony,group,0,1,0,wikidata_exact
+2009,es,Soraya,solo_female,0,0,1,wikidata_exact
+2009,fi,Waldo's People,group,0,1,0,wikidata_exact
+2009,fr,Patricia Kaas,solo_female,0,0,1,wikidata_exact
+2009,gb,Jade Ewen,solo_female,0,0,1,wikidata_exact
+2009,gr,Sakis Rouvas,solo_male,0,0,0,wikidata_exact
+2009,hr,Igor Cukrov feat. Andrea,group,0,1,0,name_heuristic
+2009,il,Noa & Mira Awad,group,0,1,0,wikidata_exact
+2009,is,Yohanna,solo_female,0,0,1,wikidata_exact
+2009,lt,Sasha Son,solo_male,0,0,0,wikidata_exact
+2009,md,Nelly Ciobanu,solo_female,0,0,1,wikidata_exact
+2009,mt,Chiara,solo_female,0,0,1,wikidata_exact
+2009,no,Alexander Rybak,solo_male,0,0,0,wikidata_exact
+2009,pt,Flor-de-lis,group,0,1,0,wikidata_fuzzy
+2009,ro,Elena,solo_female,0,0,1,wikidata_exact
+2009,ru,Anastasia Prikhodko,solo_female,0,0,1,wikidata_fuzzy
+2009,se,Malena Ernman,solo_female,0,0,1,wikidata_exact
+2009,tr,Hadise,solo_female,0,0,1,wikidata_exact
+2009,ua,Svetlana Loboda,solo_female,0,0,1,wikidata_exact
+2010,al,Juliana Pasha,solo_female,0,0,1,wikidata_exact
+2010,am,Eva Rivas,solo_female,0,0,1,wikidata_exact
+2010,az,Safura,solo_female,0,0,1,wikidata_fuzzy
+2010,ba,Vukašin Brajić,solo_male,0,0,0,wikidata_exact
+2010,be,Tom Dice,solo_male,0,0,0,wikidata_exact
+2010,by,3+2,group,0,1,0,wikidata_exact
+2010,cy,Jon Lilygreen & The Islanders,solo_male,0,0,0,wikidata_fuzzy
+2010,de,Lena,solo_female,0,0,1,wikidata_exact
+2010,dk,Chanée & N'evergreen,duet,1,0,0,name_heuristic
+2010,es,Daniel Diges,solo_male,0,0,0,wikidata_exact
+2010,fr,Jessy Matador,solo_male,0,0,0,wikidata_exact
+2010,gb,Josh,solo_male,0,0,0,wikidata_exact
+2010,ge,Sofia Nizharadze,solo_female,0,0,1,wikidata_exact
+2010,gr,Giorgos Alkaios & Friends,solo_male,0,0,0,wikidata_fuzzy
+2010,ie,Niamh Kavanagh,solo_female,0,0,1,wikidata_exact
+2010,il,Harel Skaat,solo_male,0,0,0,wikidata_exact
+2010,is,Hera Björk,solo_female,0,0,1,wikidata_exact
+2010,md,Sunstroke Project & Olia Tira,group,0,1,0,name_heuristic
+2010,no,Didrik Solli-Tangen,solo_male,0,0,0,wikidata_exact
+2010,pt,Filipa Azevedo,solo_female,0,0,1,wikidata_exact
+2010,ro,Paula Seling & Ovi,duet,1,0,0,name_heuristic
+2010,rs,Milan Stanković,solo_male,0,0,0,wikidata_exact
+2010,ru,Peter Nalitch & Friends,group,0,1,0,wikidata_exact
+2010,tr,maNga,group,0,1,0,wikidata_exact
+2010,ua,Alyosha,solo_male,0,0,0,wikidata_fuzzy
+2011,at,Nadine Beiler,solo_female,0,0,1,wikidata_exact
+2011,az,Ell/Nikki,duet,1,0,0,wikidata_exact
+2011,ba,Dino Merlin,solo_male,0,0,0,wikidata_exact
+2011,ch,Anna Rossinelli,solo_female,0,0,1,wikidata_exact
+2011,de,Lena,solo_female,0,0,1,wikidata_exact
+2011,dk,A Friend In London,group,0,1,0,wikidata_fuzzy
+2011,ee,Getter Jaani,solo_female,0,0,1,wikidata_exact
+2011,es,Lucía Pérez,solo_ungendered,0,0,0,wikidata_exact
+2011,fi,Paradise Oskar,solo_male,0,0,0,wikidata_exact
+2011,fr,Amaury Vassili,solo_male,0,0,0,wikidata_exact
+2011,gb,Blue,group,0,1,0,wikidata_exact
+2011,ge,Eldrine,group,0,1,0,wikidata_exact
+2011,gr,Loucas Yiorkas feat. Stereo Mike,group,0,1,0,name_heuristic
+2011,hu,Kati Wolf,solo_female,0,0,1,wikidata_exact
+2011,ie,Jedward,duet,1,0,0,wikidata_exact
+2011,is,Sjonni's Friends,group,0,1,0,wikidata_exact
+2011,it,Raphael Gualazzi,solo_male,0,0,0,wikidata_exact
+2011,lt,Evelina Sašenko,solo_female,0,0,1,wikidata_exact
+2011,md,Zdob și Zdub,group,0,1,0,wikidata_exact
+2011,ro,Hotel FM,group,0,1,0,wikidata_exact
+2011,rs,Nina,solo_female,0,0,1,wikidata_exact
+2011,ru,Alexej Vorobjov,solo_male,0,0,0,wikidata_fuzzy
+2011,se,Eric Saade,solo_male,0,0,0,wikidata_exact
+2011,si,Maja Keuc,solo_female,0,0,1,wikidata_exact
+2011,ua,Mika Newton,solo_female,0,0,1,wikidata_exact
+2012,al,Rona Nishliu,solo_female,0,0,1,wikidata_exact
+2012,az,Sabina Babayeva,solo_female,0,0,1,wikidata_exact
+2012,ba,Maya Sar,solo_female,0,0,1,wikidata_exact
+2012,cy,Ivi Adamou,solo_female,0,0,1,wikidata_exact
+2012,de,Roman Lob,solo_male,0,0,0,wikidata_exact
+2012,dk,Soluna Samay,solo_female,0,0,1,wikidata_exact
+2012,ee,Ott Lepland,solo_male,0,0,0,wikidata_exact
+2012,es,Pastora Soler,solo_female,0,0,1,wikidata_exact
+2012,fr,Anggun,solo_female,0,0,1,wikidata_exact
+2012,gb,Engelbert Humperdinck,solo_male,0,0,0,wikidata_exact
+2012,gr,Eleftheria Eleftheriou,solo_female,0,0,1,wikidata_exact
+2012,hu,Compact Disco,group,0,1,0,wikidata_exact
+2012,ie,Jedward,duet,1,0,0,wikidata_exact
+2012,is,Greta Salóme & Jónsi,duet,1,0,0,name_heuristic
+2012,it,Nina Zilli,solo_female,0,0,1,wikidata_exact
+2012,lt,Donny Montell,solo_male,0,0,0,wikidata_fuzzy
+2012,md,Pasha Parfeny,solo_male,0,0,0,wikidata_exact
+2012,mk,Kaliopi,solo_female,0,0,1,wikidata_exact
+2012,mt,Kurt Calleja,solo_male,0,0,0,wikidata_exact
+2012,no,Tooji,solo_male,0,0,0,wikidata_exact
+2012,ro,Mandinga,group,0,1,0,wikidata_exact
+2012,rs,Željko Joksimović,solo_male,0,0,0,wikidata_fuzzy
+2012,ru,Buranovskiye Babushki,group,0,1,0,wikidata_exact
+2012,se,Loreen,solo_female,0,0,1,wikidata_exact
+2012,tr,Can Bonomo,solo_male,0,0,0,wikidata_exact
+2012,ua,Gaitana,solo_female,0,0,1,wikidata_exact
+2013,am,Dorians,group,0,1,0,wikidata_exact
+2013,az,Farid Mammadov,solo_male,0,0,0,wikidata_exact
+2013,be,Roberto Bellarosa,solo_male,0,0,0,wikidata_exact
+2013,by,Alyona Lanskaya,solo_female,0,0,1,wikidata_exact
+2013,de,Cascada,group,0,1,0,wikidata_exact
+2013,dk,Emmelie de Forest,solo_female,0,0,1,wikidata_exact
+2013,ee,Birgit,solo_female,0,0,1,wikidata_exact
+2013,es,ESDM,solo_ungendered,0,0,0,unresolved
+2013,fi,Krista Siegfrids,solo_female,0,0,1,wikidata_exact
+2013,fr,Amandine Bourgeois,solo_female,0,0,1,wikidata_exact
+2013,gb,Bonnie Tyler,solo_female,0,0,1,wikidata_exact
+2013,ge,Nodi Tatishvili & Sophie Gelovani,duet,1,0,0,name_heuristic
+2013,gr,Koza Mostra feat. Agathon Iakovidis,group,0,1,0,name_heuristic
+2013,hu,ByeAlex,solo_male,0,0,0,wikidata_exact
+2013,ie,Ryan Dolan,solo_male,0,0,0,wikidata_exact
+2013,is,Eythor Ingi,solo_male,0,0,0,wikidata_fuzzy
+2013,it,Marco Mengoni,solo_male,0,0,0,wikidata_exact
+2013,lt,Andrius Pojavis,solo_male,0,0,0,wikidata_exact
+2013,md,Aliona Moon,solo_female,0,0,1,wikidata_exact
+2013,mt,Gianluca,solo_male,0,0,0,wikidata_exact
+2013,nl,Anouk,solo_female,0,0,1,wikidata_exact
+2013,no,Margaret Berger,solo_female,0,0,1,wikidata_exact
+2013,ro,Cezar,solo_male,0,0,0,wikidata_exact
+2013,ru,Dina Garipova,solo_female,0,0,1,wikidata_fuzzy
+2013,se,Robin Stjernberg,solo_male,0,0,0,wikidata_exact
+2013,ua,Zlata Ognevich,solo_female,0,0,1,wikidata_exact
+2014,am,Aram MP3,solo_male,0,0,0,wikidata_fuzzy
+2014,at,Conchita Wurst,solo_male,0,0,0,wikidata_exact
+2014,az,Dilara Kazimova,solo_female,0,0,1,wikidata_exact
+2014,by,Teo,solo_male,0,0,0,wikidata_exact
+2014,ch,Sebalter,solo_male,0,0,0,wikidata_exact
+2014,de,Elaiza,group,0,1,0,wikidata_exact
+2014,dk,Basim,solo_male,0,0,0,wikidata_fuzzy
+2014,es,Ruth Lorenzo,solo_female,0,0,1,wikidata_exact
+2014,fi,Softengine,group,0,1,0,wikidata_exact
+2014,fr,TWIN TWIN,group,0,1,0,wikidata_fuzzy
+2014,gb,Molly,solo_female,0,0,1,wikidata_exact
+2014,gr,Freaky Fortune feat. RiskyKidd,group,0,1,0,wikidata_exact
+2014,hu,András Kállay-Saunders,solo_male,0,0,0,wikidata_exact
+2014,is,Pollapönk,group,0,1,0,wikidata_fuzzy
+2014,it,Emma,solo_female,0,0,1,wikidata_exact
+2014,me,Sergej Ćetković,solo_male,0,0,0,wikidata_exact
+2014,mt,Firelight,group,0,1,0,wikidata_exact
+2014,nl,The Common Linnets,group,0,1,0,wikidata_exact
+2014,no,Carl Espen,solo_male,0,0,0,wikidata_exact
+2014,pl,Donatan & Cleo,group,0,1,0,wikidata_exact
+2014,ro,Paula Seling & OVI,duet,1,0,0,name_heuristic
+2014,ru,Tolmachevy Sisters,duet,1,0,0,wikidata_fuzzy
+2014,se,Sanna Nielsen,solo_female,0,0,1,wikidata_exact
+2014,si,Tinkara Kovač,solo_female,0,0,1,wikidata_exact
+2014,sm,Valentina Monetta,solo_female,0,0,1,wikidata_exact
+2014,ua,Mariya Yaremchuk,solo_female,0,0,1,wikidata_exact
+2015,al,Elhaida Dani,solo_female,0,0,1,wikidata_exact
+2015,am,Genealogy,group,0,1,0,wikidata_exact
+2015,at,The Makemakes,group,0,1,0,wikidata_exact
+2015,au,Guy Sebastian,solo_male,0,0,0,wikidata_exact
+2015,az,Elnur Hüseynov,solo_male,0,0,0,wikidata_exact
+2015,be,Loïc Nottet,solo_male,0,0,0,wikidata_exact
+2015,cy,John Karayiannis,solo_male,0,0,0,wikidata_exact
+2015,de,Ann Sophie,solo_female,0,0,1,wikidata_exact
+2015,ee,Elina Born & Stig Rästa,duet,1,0,0,name_heuristic
+2015,es,Edurne,solo_female,0,0,1,wikidata_exact
+2015,fr,Lisa Angell,solo_female,0,0,1,wikidata_exact
+2015,gb,Electro Velvet,duet,1,0,0,wikidata_exact
+2015,ge,Nina Sublatti,solo_female,0,0,1,wikidata_fuzzy
+2015,gr,Maria Elena Kyriakou,solo_female,0,0,1,wikidata_exact
+2015,hu,Boggie,solo_female,0,0,1,wikidata_exact
+2015,il,Nadav Guedj,solo_male,0,0,0,wikidata_exact
+2015,it,Il Volo,group,0,1,0,wikidata_exact
+2015,lt,Monika & Vaidas,duet,1,0,0,name_heuristic
+2015,lv,Aminata Savadogo,solo_female,0,0,1,wikidata_exact
+2015,me,Knez,solo_male,0,0,0,wikidata_exact
+2015,no,Mørland & Debrah Scarlett,duet,1,0,0,name_heuristic
+2015,pl,Monika Kuszyńska,solo_female,0,0,1,wikidata_exact
+2015,ro,Voltaj,group,0,1,0,wikidata_exact
+2015,rs,Bojana Stamenov,solo_female,0,0,1,wikidata_exact
+2015,ru,Polina Gagarina,solo_female,0,0,1,wikidata_exact
+2015,se,Måns Zelmerlöw,solo_male,0,0,0,wikidata_exact
+2015,si,Maraaya,duet,1,0,0,wikidata_fuzzy
+2016,am,Iveta Mukuchyan,solo_female,0,0,1,wikidata_exact
+2016,at,Zoë,solo_female,0,0,1,wikidata_exact
+2016,au,Dami Im,solo_female,0,0,1,wikidata_exact
+2016,az,Samra,solo_male,0,0,0,wikidata_exact
+2016,be,Laura Tesoro,solo_female,0,0,1,wikidata_exact
+2016,bg,Poli Genova,solo_female,0,0,1,wikidata_exact
+2016,cy,Minus One,group,0,1,0,wikidata_exact
+2016,cz,Gabriela Gunčíková,solo_female,0,0,1,wikidata_exact
+2016,de,Jamie-Lee Kriewitz,solo_nb,0,0,0,wikidata_exact
+2016,es,Barei,solo_female,0,0,1,wikidata_exact
+2016,fr,Amir,solo_male,0,0,0,wikidata_exact
+2016,gb,Joe & Jake,duet,1,0,0,name_heuristic
+2016,ge,Nika Kocharov & Young Georgian Lolitaz,group,0,1,0,wikidata_exact
+2016,hr,Nina Kraljić,solo_female,0,0,1,wikidata_exact
+2016,hu,Freddie,solo_male,0,0,0,wikidata_exact
+2016,il,Hovi Star,solo_male,0,0,0,wikidata_exact
+2016,it,Francesca Michielin,solo_female,0,0,1,wikidata_exact
+2016,lt,Donny Montell,solo_male,0,0,0,wikidata_fuzzy
+2016,lv,Justs,solo_male,0,0,0,wikidata_exact
+2016,mt,Ira Losco,solo_female,0,0,1,wikidata_exact
+2016,nl,Douwe Bob,solo_male,0,0,0,wikidata_exact
+2016,pl,Michał Szpak,solo_male,0,0,0,wikidata_exact
+2016,rs,Sanja Vučić ZAA,solo_ungendered,0,0,0,unresolved
+2016,ru,Sergey Lazarev,solo_male,0,0,0,wikidata_exact
+2016,se,Frans,solo_male,0,0,0,wikidata_exact
+2016,ua,Jamala,solo_female,0,0,1,wikidata_exact
+2017,am,Artsvik,solo_female,0,0,1,wikidata_exact
+2017,at,Nathan Trent,solo_male,0,0,0,wikidata_exact
+2017,au,Isaiah Firebrace,solo_male,0,0,0,wikidata_exact
+2017,az,Dihaj,solo_female,0,0,1,wikidata_fuzzy
+2017,be,Blanche,solo_female,0,0,1,wikidata_exact
+2017,bg,Kristian Kostov,solo_male,0,0,0,wikidata_exact
+2017,by,Naviband,group,0,1,0,wikidata_exact
+2017,cy,Hovig,solo_male,0,0,0,wikidata_exact
+2017,de,Levina,solo_female,0,0,1,wikidata_exact
+2017,dk,Anja,solo_female,0,0,1,wikidata_exact
+2017,es,Manel Navarro,solo_male,0,0,0,wikidata_exact
+2017,fr,Alma,solo_female,0,0,1,wikidata_exact
+2017,gb,Lucie Jones,solo_female,0,0,1,wikidata_exact
+2017,gr,Demy,solo_female,0,0,1,wikidata_exact
+2017,hr,Jacques Houdek,solo_male,0,0,0,wikidata_exact
+2017,hu,Joci Pápai,solo_male,0,0,0,wikidata_exact
+2017,il,Imri Ziv,solo_male,0,0,0,wikidata_exact
+2017,it,Francesco Gabbani,solo_male,0,0,0,wikidata_exact
+2017,md,Sunstroke Project,duet,1,0,0,wikidata_fuzzy
+2017,nl,OG3NE,group,0,1,0,wikidata_exact
+2017,no,Jowst,solo_male,0,0,0,wikidata_fuzzy
+2017,pl,Kasia Moś,solo_female,0,0,1,wikidata_exact
+2017,pt,Salvador Sobral,solo_ungendered,0,0,0,wikidata_exact
+2017,ro,Ilinca feat. Alex Florea,group,0,1,0,name_heuristic
+2017,se,Robin Bengtsson,solo_male,0,0,0,wikidata_exact
+2017,ua,O.Torvald,group,0,1,0,wikidata_exact
+2018,al,Eugent Bushpepa,solo_male,0,0,0,wikidata_exact
+2018,at,Cesár Sampson,solo_male,0,0,0,wikidata_exact
+2018,au,Jessica Mauboy,solo_female,0,0,1,wikidata_exact
+2018,bg,Equinox,group,0,1,0,wikidata_exact
+2018,cy,Eleni Foureira,solo_female,0,0,1,wikidata_exact
+2018,cz,Mikolas Josef,solo_male,0,0,0,wikidata_exact
+2018,de,Michael Schulte,solo_male,0,0,0,wikidata_exact
+2018,dk,Rasmussen,solo_male,0,0,0,wikidata_exact
+2018,ee,Elina Nechayeva,solo_female,0,0,1,wikidata_exact
+2018,es,Amaia & Alfred,duet,1,0,0,name_heuristic
+2018,fi,Saara Aalto,solo_female,0,0,1,wikidata_exact
+2018,fr,Madame Monsieur,duet,1,0,0,wikidata_fuzzy
+2018,gb,SuRie,solo_female,0,0,1,wikidata_exact
+2018,hu,AWS,group,0,1,0,wikidata_exact
+2018,ie,Ryan O'Shaughnessy,solo_male,0,0,0,wikidata_exact
+2018,il,Netta Barzilai,solo_female,0,0,1,wikidata_exact
+2018,it,Ermal Meta & Fabrizio Moro,duet,1,0,0,name_heuristic
+2018,lt,Ieva Zasimauskaitė,solo_female,0,0,1,wikidata_exact
+2018,md,DoReDos,group,0,1,0,wikidata_fuzzy
+2018,nl,Waylon,solo_male,0,0,0,wikidata_exact
+2018,no,Alexander Rybak,solo_male,0,0,0,wikidata_exact
+2018,pt,Cláudia Pascoal,solo_female,0,0,1,wikidata_exact
+2018,rs,Sanja Ilić & Balkanika,group,0,1,0,wikidata_exact
+2018,se,Benjamin Ingrosso,solo_male,0,0,0,wikidata_exact
+2018,si,Lea Sirk,solo_female,0,0,1,wikidata_exact
+2018,ua,Mélovin,solo_male,0,0,0,wikidata_exact
+2019,al,Jonida Maliqi,solo_female,0,0,1,wikidata_exact
+2019,au,Kate Miller-Heidke,solo_female,0,0,1,wikidata_exact
+2019,az,Chingiz,solo_male,0,0,0,wikidata_exact
+2019,by,Zena,solo_female,0,0,1,wikidata_exact
+2019,ch,Luca Hänni,solo_male,0,0,0,wikidata_exact
+2019,cy,Tamta,solo_female,0,0,1,wikidata_exact
+2019,cz,Lake Malawi,group,0,1,0,wikidata_exact
+2019,de,S!sters,duet,1,0,0,wikidata_exact
+2019,dk,Leonora,solo_female,0,0,1,wikidata_exact
+2019,ee,Victor Crone,solo_male,0,0,0,wikidata_exact
+2019,es,Miki,solo_male,0,0,0,wikidata_exact
+2019,fr,Bilal Hassani,solo_ungendered,0,0,0,wikidata_exact
+2019,gb,Michael Rice,solo_male,0,0,0,wikidata_exact
+2019,gr,Katerine Duska,solo_female,0,0,1,wikidata_exact
+2019,il,Kobi Marimi,solo_male,0,0,0,wikidata_exact
+2019,is,Hatari,group,0,1,0,wikidata_exact
+2019,it,Mahmood,solo_male,0,0,0,wikidata_exact
+2019,mk,Tamara Todevska,solo_female,0,0,1,wikidata_exact
+2019,mt,Michela Pace,solo_female,0,0,1,wikidata_exact
+2019,nl,Duncan Laurence,solo_male,0,0,0,wikidata_exact
+2019,no,KEiiNO,group,0,1,0,wikidata_exact
+2019,rs,Nevena Božović,solo_female,0,0,1,wikidata_exact
+2019,ru,Sergey Lazarev,solo_male,0,0,0,wikidata_exact
+2019,se,John Lundvik,solo_male,0,0,0,wikidata_exact
+2019,si,Zala Kralj & Gašper Šantl,duet,1,0,0,wikidata_fuzzy
+2019,sm,Serhat,solo_male,0,0,0,wikidata_exact
+2020,nl,Jeangu Macrooy,solo_male,0,0,0,wikidata_exact
+2021,al,Anxhela Peristeri,solo_female,0,0,1,wikidata_exact
+2021,az,Efendi,solo_male,0,0,0,wikidata_exact
+2021,be,Hooverphonic,group,0,1,0,wikidata_exact
+2021,bg,Victoria,solo_female,0,0,1,wikidata_exact
+2021,ch,Gjon's Tears,solo_male,0,0,0,wikidata_exact
+2021,cy,Elena Tsagrinou,solo_female,0,0,1,wikidata_exact
+2021,de,Jendrik,solo_male,0,0,0,wikidata_fuzzy
+2021,es,Blas Cantó,solo_male,0,0,0,wikidata_fuzzy
+2021,fi,Blind Channel,group,0,1,0,wikidata_exact
+2021,fr,Barbara Pravi,solo_female,0,0,1,wikidata_exact
+2021,gb,James Newman,solo_male,0,0,0,wikidata_exact
+2021,gr,Stefania,solo_female,0,0,1,wikidata_exact
+2021,il,Eden Alene,solo_female,0,0,1,wikidata_exact
+2021,is,Daði & Gagnamagnið,group,0,1,0,wikidata_exact
+2021,it,Måneskin,group,0,1,0,wikidata_exact
+2021,lt,The Roop,group,0,1,0,wikidata_exact
+2021,md,Natalia Gordienko,solo_female,0,0,1,wikidata_exact
+2021,mt,Destiny,solo_nb,0,0,0,wikidata_exact
+2021,nl,Jeangu Macrooy,solo_male,0,0,0,wikidata_exact
+2021,no,TIX,solo_male,0,0,0,wikidata_exact
+2021,pt,The Black Mamba,group,0,1,0,wikidata_exact
+2021,rs,Hurricane,group,0,1,0,wikidata_exact
+2021,ru,Manizha,solo_female,0,0,1,wikidata_exact
+2021,se,Tusse,solo_male,0,0,0,wikidata_exact
+2021,sm,Senhit feat. Flo Rida,group,0,1,0,name_heuristic
+2021,ua,Go_A,group,0,1,0,wikidata_exact
+2022,am,Rosa Linn,solo_female,0,0,1,wikidata_exact
+2022,au,Sheldon Riley,solo_male,0,0,0,wikidata_exact
+2022,az,Nadir Rustamli,solo_male,0,0,0,wikidata_exact
+2022,be,Jérémie Makiese,solo_male,0,0,0,wikidata_exact
+2022,ch,Marius Bear,solo_male,0,0,0,wikidata_exact
+2022,cz,We Are Domi,group,0,1,0,wikidata_exact
+2022,de,Malik Harris,solo_male,0,0,0,wikidata_exact
+2022,ee,Stefan,solo_male,0,0,0,wikidata_exact
+2022,es,Chanel,solo_female,0,0,1,wikidata_exact
+2022,fi,The Rasmus,group,0,1,0,wikidata_exact
+2022,fr,Alvan & Ahez,group,0,1,0,wikidata_fuzzy
+2022,gb,Sam Ryder,solo_male,0,0,0,wikidata_exact
+2022,gr,Amanda Georgiadi Tenfjord,solo_ungendered,0,0,0,unresolved
+2022,is,Systur,group,0,1,0,wikidata_exact
+2022,it,Mahmood & Blanco,duet,1,0,0,name_heuristic
+2022,lt,Monika Liu,solo_female,0,0,1,wikidata_exact
+2022,md,Zdob și Zdub & Advahov Brothers,group,0,1,0,name_heuristic
+2022,nl,S10,solo_female,0,0,1,wikidata_exact
+2022,no,Subwoolfer,duet,1,0,0,wikidata_exact
+2022,pl,Ochman,solo_male,0,0,0,wikidata_exact
+2022,pt,Maro,solo_female,0,0,1,wikidata_exact
+2022,ro,WRS,solo_male,0,0,0,wikidata_exact
+2022,rs,Konstrakta,solo_female,0,0,1,wikidata_exact
+2022,se,Cornelia Jakobs,solo_female,0,0,1,wikidata_exact
+2022,ua,Kalush Orchestra,group,0,1,0,wikidata_exact
+2023,al,Albina & Familja Kelmendi,group,0,1,0,name_heuristic
+2023,am,Brunette,solo_female,0,0,1,wikidata_exact
+2023,at,Teya & Salena,duet,1,0,0,wikidata_exact
+2023,au,Voyager,group,0,1,0,wikidata_exact
+2023,be,Gustaph,solo_male,0,0,0,wikidata_exact
+2023,ch,Remo Forrer,solo_male,0,0,0,wikidata_exact
+2023,cy,Andrew Lambrou,solo_male,0,0,0,wikidata_exact
+2023,cz,Vesna,group,0,1,0,wikidata_exact
+2023,de,Lord Of The Lost,group,0,1,0,wikidata_fuzzy
+2023,ee,Alika,solo_female,0,0,1,wikidata_exact
+2023,es,Blanca Paloma,solo_female,0,0,1,wikidata_exact
+2023,fi,Käärijä,solo_male,0,0,0,wikidata_exact
+2023,fr,La Zarra,solo_female,0,0,1,wikidata_exact
+2023,gb,Mae Muller,solo_female,0,0,1,wikidata_exact
+2023,hr,Let 3,group,0,1,0,wikidata_exact
+2023,il,Noa Kirel,solo_female,0,0,1,wikidata_exact
+2023,it,Marco Mengoni,solo_male,0,0,0,wikidata_exact
+2023,lt,Monika Linkytė,solo_female,0,0,1,wikidata_exact
+2023,md,Pasha Parfeni,solo_male,0,0,0,wikidata_exact
+2023,no,Alessandra,solo_female,0,0,1,wikidata_exact
+2023,pl,Blanka,solo_female,0,0,1,wikidata_exact
+2023,pt,Mimicat,solo_female,0,0,1,wikidata_exact
+2023,rs,Luke Black,solo_male,0,0,0,wikidata_exact
+2023,se,Loreen,solo_female,0,0,1,wikidata_exact
+2023,si,Joker Out,group,0,1,0,wikidata_exact
+2023,ua,Tvorchi,duet,1,0,0,wikidata_exact
+2024,am,Ladaniva,group,0,1,0,wikidata_2426
+2024,at,Kaleen,solo_female,0,0,1,wikidata_2426
+2024,ch,Nemo,solo_nb,0,0,0,wikidata_2426
+2024,cy,Silia Kapsis,solo_female,0,0,1,wikidata_2426
+2024,de,Isaak,solo_male,0,0,0,wikidata_2426
+2024,ee,5miinust,group,0,1,0,wikidata_2426
+2024,es,Nebulossa,duet,1,0,0,wikidata_2426
+2024,fi,Teemu Keisteri,solo_male,0,0,0,wikidata_2426
+2024,fr,Slimane,solo_male,0,0,0,wikidata_2426
+2024,gb,Olly Alexander,solo_nb,0,0,0,wikidata_2426
+2024,ge,Nutsa Buzaladze,solo_female,0,0,1,wikidata_2426
+2024,gr,Marina Satti,solo_female,0,0,1,wikidata_2426
+2024,hr,Baby Lasagna,solo_male,0,0,0,wikidata_2426
+2024,ie,Bambie Thug,solo_nb,0,0,0,wikidata_2426
+2024,il,Eden Golan,solo_female,0,0,1,wikidata_2426
+2024,it,Angelina Mango,solo_female,0,0,1,wikidata_2426
+2024,lt,Silvester Belt,solo_male,0,0,0,wikidata_2426
+2024,lu,Tali Golergant,solo_female,0,0,1,wikidata_2426
+2024,lv,Dons,solo_male,0,0,0,wikidata_2426
+2024,no,Gåte,group,0,1,0,wikidata_2426
+2024,pt,Iolanda,solo_female,0,0,1,wikidata_2426
+2024,rs,Teya Dora,solo_female,0,0,1,wikidata_2426
+2024,se,Marcus & Martinus,duet,1,0,0,wikidata_2426
+2024,si,Raiven,solo_female,0,0,1,wikidata_2426
+2024,ua,Alyona Alyona,solo_female,0,0,1,wikidata_2426
+2025,al,,solo_ungendered,0,0,0,unresolved_2426
+2025,am,,solo_ungendered,0,0,0,unresolved_2426
+2025,at,JJ,solo_male,0,0,0,wikidata_2426
+2025,ch,,solo_ungendered,0,0,0,unresolved_2426
+2025,de,,solo_ungendered,0,0,0,unresolved_2426
+2025,dk,,solo_ungendered,0,0,0,unresolved_2426
+2025,ee,,solo_ungendered,0,0,0,unresolved_2426
+2025,es,Melody,solo_female,0,0,1,wikidata_2426
+2025,fi,Erika Vikman,solo_female,0,0,1,wikidata_2426
+2025,fr,Q18684181,solo_female,0,0,1,wikidata_2426
+2025,gb,,solo_ungendered,0,0,0,unresolved_2426
+2025,gr,,solo_ungendered,0,0,0,unresolved_2426
+2025,il,Yuval Raphael,solo_female,0,0,1,wikidata_2426
+2025,is,Væb,duet,1,0,0,wikidata_2426
+2025,it,Lucio Corsi,solo_male,0,0,0,wikidata_2426
+2025,lt,,solo_ungendered,0,0,0,unresolved_2426
+2025,lu,Laura Thorn,solo_female,0,0,1,wikidata_2426
+2025,lv,Tautumeitas,group,0,1,0,wikidata_2426
+2025,mt,,solo_ungendered,0,0,0,unresolved_2426
+2025,nl,,solo_ungendered,0,0,0,unresolved_2426
+2025,no,,solo_ungendered,0,0,0,unresolved_2426
+2025,pl,Justyna Steczkowska,solo_female,0,0,1,wikidata_2426
+2025,pt,NAPA,group,0,1,0,wikidata_2426
+2025,se,KAJ,group,0,1,0,wikidata_2426
+2025,sm,,solo_ungendered,0,0,0,unresolved_2426
+2025,ua,Ziferblat,group,0,1,0,wikidata_2426
+2026,al,,solo_ungendered,0,0,0,unresolved_2426
+2026,at,,solo_ungendered,0,0,0,unresolved_2426
+2026,au,,solo_ungendered,0,0,0,unresolved_2426
+2026,be,,solo_ungendered,0,0,0,unresolved_2426
+2026,bg,,solo_ungendered,0,0,0,unresolved_2426
+2026,cy,,solo_ungendered,0,0,0,unresolved_2426
+2026,cz,,solo_ungendered,0,0,0,unresolved_2426
+2026,de,,solo_ungendered,0,0,0,unresolved_2426
+2026,dk,Søren Torpegaard Lund,solo_male,0,0,0,wikidata_2426
+2026,fi,Pete Parkkonen,solo_male,0,0,0,wikidata_2426
+2026,fr,,solo_ungendered,0,0,0,unresolved_2426
+2026,gb,Sam Battle,solo_male,0,0,0,wikidata_2426
+2026,gr,,solo_ungendered,0,0,0,unresolved_2426
+2026,hr,Lelek,group,0,1,0,wikidata_2426
+2026,il,Noam Bettan,solo_male,0,0,0,wikidata_2426
+2026,it,Sal Da Vinci,solo_male,0,0,0,wikidata_2426
+2026,lt,,solo_ungendered,0,0,0,unresolved_2426
+2026,md,Satoshi,solo_male,0,0,0,wikidata_2426
+2026,mt,,solo_ungendered,0,0,0,unresolved_2426
+2026,no,,solo_ungendered,0,0,0,unresolved_2426
+2026,pl,,solo_ungendered,0,0,0,unresolved_2426
+2026,ro,Alexandra Căpitănescu,solo_female,0,0,1,wikidata_2426
+2026,rs,,solo_ungendered,0,0,0,unresolved_2426
+2026,se,,solo_ungendered,0,0,0,unresolved_2426
+2026,ua,,solo_ungendered,0,0,0,unresolved_2426

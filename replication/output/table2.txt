@@ -1,0 +1,32 @@
+Table 2. Friend groups via voting portfolio patterns (method 1).
+(Charron 2013 Table 2, verbatim; '~' = weak 'a' linkage, dropped in the Alternative-Method-1 robustness measure.)
+
+
+=== Time period: 1975-1997 ===
+  G1: Bosnia & Herzegovina, Turkey
+  G2: Sweden, Denmark, Norway, Iceland, Finland*
+  G3: Russia, Slovenia
+  G4: United Kingdom, Ireland, Luxembourg*, Belgium*, Switzerland*
+  G5: Israel, Yugoslavia
+  G6: Estonia, Poland, Hungary
+  G7: Cyprus, Greece
+  G8: Germany*, France*, Netherlands*, Austria*
+  G9: Croatia, Malta, Portugal
+  G10: Italy, Spain, Monaco*
+
+=== Time period: 1998-2012 ===
+  G1: Romania, Moldova
+  G2: Greece, Cyprus
+  G3: Turkey, Azerbaijan
+  G4: Ukraine, Georgia, Russia, Belarus, Armenia, Israel
+  G5: Italy, Albania
+  G6: Serbia, Serbia & Montenegro, Slovenia, Croatia, Bosnia & Herzegovina, Macedonia
+  G7: Spain, Portugal, France*
+  G8: Germany, Switzerland, Austria
+  G9: Latvia, Lithuania, Estonia
+  G10: Sweden, Denmark, Iceland, Norway, Finland
+  G11: United Kingdom, Ireland, Malta*
+  G12: Netherlands, Belgium
+  G13: Poland*, Hungary*
+
+(* = weak 'a' linkage.)

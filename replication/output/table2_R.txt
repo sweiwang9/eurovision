@@ -1,0 +1,29 @@
+Table 2 (R). Friend groups via voting portfolio patterns (method 1).
+
+=== Time period: 1975-1997 ===
+  G1: Austria, Estonia, France, Ireland, Poland
+  G2: Bosnia & Herzegovina, Croatia, Malta, Turkey
+  G3: Belgium, Germany, United Kingdom, Monaco
+  G4: Switzerland, Israel, Netherlands, Yugoslavia
+  G5: Denmark, Iceland, Sweden
+  G6: Spain, Italy, Portugal
+  G7: Norway, Russia, Slovenia
+  G8: Cyprus, Greece
+  G9: Finland, Hungary
+  G10: Luxembourg
+
+=== Time period: 1998-2012 ===
+  G1: Denmark, Estonia, Finland, Iceland, Latvia, Norway, Sweden
+  G2: Armenia, Georgia, Lithuania, Poland, Russia, Ukraine
+  G3: Bosnia & Herzegovina, Croatia, Macedonia, Serbia, Slovenia
+  G4: Azerbaijan, Moldova, Romania, Turkey
+  G5: Albania, Cyprus, Greece
+  G6: Austria, Germany
+  G7: Belgium, Netherlands
+  G8: Spain, Portugal
+  G9: France, Israel
+  G10: United Kingdom, Ireland
+  G11: Switzerland
+  G12: Hungary
+  G13: Malta
+
