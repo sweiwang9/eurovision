@@ -180,7 +180,10 @@ def load_impartiality(lo, hi, charron_faithful=True):
         micro-states); Moldova, which now has real data, keeps it.
     """
     raw = {}
-    with open(os.path.join(DATA, "qog_std_ts_jan26.csv")) as f:
+    # Slim ICRG subset of the QoG Standard Time-Series (Jan-2026 release): only the
+    # ccodealp/year/icrg_qog columns the pipeline uses (~150 KB vs the 71 MB full
+    # file, which stays out of git -- see qog_icrg_jan26.csv / .gitignore / README).
+    with open(os.path.join(DATA, "qog_icrg_jan26.csv")) as f:
         for r in csv.DictReader(f):
             v = r["icrg_qog"]
             if v == "":

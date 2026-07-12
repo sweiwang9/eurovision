@@ -50,7 +50,9 @@ df$bias    <- df$vote - df$quality
 df$n_part  <- df$p
 
 # --- 4. Impartiality (ICRG icrg_qog), ffill/bfill per country, 1975-2012. ----
-q <- read.csv(file.path(DATA, "qog_std_ts_jan26.csv"), stringsAsFactors = FALSE)
+# slim ICRG subset (ccodealp/year/icrg_qog) of the QoG Jan-2026 release; the full
+# 71 MB file stays out of git (see qog_icrg_jan26.csv / README).
+q <- read.csv(file.path(DATA, "qog_icrg_jan26.csv"), stringsAsFactors = FALSE)
 q <- q[!is.na(q$icrg_qog), c("ccodealp", "year", "icrg_qog")]
 imp_env <- new.env(); allvals <- c()
 for (iso2 in names(ISO3)) {

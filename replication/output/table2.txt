@@ -20,7 +20,7 @@ Table 2. Friend groups via voting portfolio patterns (method 1).
   G3: Turkey, Azerbaijan
   G4: Ukraine, Georgia, Russia, Belarus, Armenia, Israel
   G5: Italy, Albania
-  G6: Serbia, Serbia & Montenegro, Slovenia, Croatia, Bosnia & Herzegovina, Macedonia
+  G6: Serbia, Slovenia, Croatia, Bosnia & Herzegovina, Macedonia
   G7: Spain, Portugal, France*
   G8: Germany, Switzerland, Austria
   G9: Latvia, Lithuania, Estonia
